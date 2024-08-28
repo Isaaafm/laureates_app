@@ -1,0 +1,965 @@
+id,firstname,surname,born,died,bornCountry,bornCountryCode,gender,prize_years,prize_categories,prize_motivation,ISO-ALPHA-3,latitude,longitude,officialCountryName
+1,Wilhelm Conrad,Röntgen,1845,1923,Prussia (now Germany),DE,male,1901,physics,"""in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him""",DDR,52.05,12.39,German Democratic Republic
+2,Hendrik A.,Lorentz,1853,1928,the Netherlands,NL,male,1902,physics,"""in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena""",NLD,52.32,5.55,Netherlands
+3,Pieter,Zeeman,1865,1943,the Netherlands,NL,male,1902,physics,"""in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena""",NLD,52.32,5.55,Netherlands
+4,Henri,Becquerel,1852,1908,France,FR,male,1903,physics,"""in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity""",FRA,47.0,2.0,France
+5,Pierre,Curie,1859,1906,France,FR,male,1903,physics,"""in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel""",FRA,47.0,2.0,France
+6,Marie,Curie,1867,1934,Russian Empire (now Poland),PL,female,"1903, 1911","physics, chemistry","""in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel"", ""in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element""",POL,52.0,19.0,Poland
+8,Lord,Rayleigh,1842,1919,United Kingdom,GB,male,1904,physics,"""for his investigations of the densities of the most important gases and for his discovery of argon in connection with these studies""",GBR,54.6,-2.0,United Kingdom
+9,Philipp,Lenard,1862,1947,Hungary (now Slovakia),SK,male,1905,physics,"""for his work on cathode rays""",SVK,49.0,20.0,Slovakia
+10,J.J.,Thomson,1856,1940,United Kingdom,GB,male,1906,physics,"""in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases""",GBR,54.6,-2.0,United Kingdom
+11,Albert A.,Michelson,1852,1931,Prussia (now Poland),PL,male,1907,physics,"""for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid""",POL,52.0,19.0,Poland
+12,Gabriel,Lippmann,1845,1921,Luxembourg,LU,male,1908,physics,"""for his method of reproducing colours photographically based on the phenomenon of interference""",LUX,49.77,6.13,Luxembourg
+13,Guglielmo,Marconi,1874,1937,Italy,IT,male,1909,physics,"""in recognition of their contributions to the development of wireless telegraphy""",ITA,42.5,12.5,Italy
+14,Ferdinand,Braun,1850,1918,Hesse-Kassel (now Germany),DE,male,1909,physics,"""in recognition of their contributions to the development of wireless telegraphy""",DDR,52.05,12.39,German Democratic Republic
+15,Johannes Diderik,van der Waals,1837,1923,the Netherlands,NL,male,1910,physics,"""for his work on the equation of state for gases and liquids""",NLD,52.32,5.55,Netherlands
+16,Wilhelm,Wien,1864,1928,Prussia (now Russia),RU,male,1911,physics,"""for his discoveries regarding the laws governing the radiation of heat""",RUS,66.42,94.25,Russia
+17,Gustaf,Dalén,1869,1937,Sweden,SE,male,1912,physics,"""for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys""",SWE,61.0,15.0,Sweden
+18,Heike,Kamerlingh Onnes,1853,1926,the Netherlands,NL,male,1913,physics,"""for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium""",NLD,52.32,5.55,Netherlands
+19,Max,von Laue,1879,1960,Germany,DE,male,1914,physics,"""for his discovery of the diffraction of X-rays by crystals""",DDR,52.05,12.39,German Democratic Republic
+20,William,Bragg,1862,1942,United Kingdom,GB,male,1915,physics,"""for their services in the analysis of crystal structure by means of X-rays""",GBR,54.6,-2.0,United Kingdom
+21,Lawrence,Bragg,1890,1971,Australia,AU,male,1915,physics,"""for their services in the analysis of crystal structure by means of X-rays""",AUS,-28.0,137.0,Australia
+22,Charles Glover,Barkla,1877,1944,United Kingdom,GB,male,1917,physics,"""for his discovery of the characteristic R&ouml;ntgen radiation of the elements""",GBR,54.6,-2.0,United Kingdom
+23,Max,Planck,1858,1947,Schleswig (now Germany),DE,male,1918,physics,"""in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta""",DDR,52.05,12.39,German Democratic Republic
+24,Johannes,Stark,1874,1957,Germany,DE,male,1919,physics,"""for his discovery of the Doppler effect in canal rays and the splitting of spectral lines in electric fields""",DDR,52.05,12.39,German Democratic Republic
+25,Charles Edouard,Guillaume,1861,1938,Switzerland,CH,male,1920,physics,"""in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys""",CHE,46.8,8.23,Switzerland
+26,Albert,Einstein,1879,1955,Germany,DE,male,1921,physics,"""for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect""",DDR,52.05,12.39,German Democratic Republic
+27,Niels,Bohr,1885,1962,Denmark,DK,male,1922,physics,"""for his services in the investigation of the structure of atoms and of the radiation emanating from them""",DNK,56.0,10.0,Denmark
+28,Robert A.,Millikan,1868,1953,USA,US,male,1923,physics,"""for his work on the elementary charge of electricity and on the photoelectric effect""",USA,39.83,-98.58,United States of America
+29,Manne,Siegbahn,1886,1978,Sweden,SE,male,1924,physics,"""for his discoveries and research in the field of X-ray spectroscopy""",SWE,61.0,15.0,Sweden
+30,James,Franck,1882,1964,Germany,DE,male,1925,physics,"""for their discovery of the laws governing the impact of an electron upon an atom""",DDR,52.05,12.39,German Democratic Republic
+31,Gustav,Hertz,1887,1975,Germany,DE,male,1925,physics,"""for their discovery of the laws governing the impact of an electron upon an atom""",DDR,52.05,12.39,German Democratic Republic
+32,Jean Baptiste,Perrin,1870,1942,France,FR,male,1926,physics,"""for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium""",FRA,47.0,2.0,France
+33,Arthur H.,Compton,1892,1962,USA,US,male,1927,physics,"""for his discovery of the effect named after him""",USA,39.83,-98.58,United States of America
+34,C.T.R.,Wilson,1869,1959,Scotland,GB,male,1927,physics,"""for his method of making the paths of electrically charged particles visible by condensation of vapour""",GBR,54.6,-2.0,United Kingdom
+35,Owen Willans,Richardson,1879,1959,United Kingdom,GB,male,1928,physics,"""for his work on the thermionic phenomenon and especially for the discovery of the law named after him""",GBR,54.6,-2.0,United Kingdom
+36,Louis,de Broglie,1892,1987,France,FR,male,1929,physics,"""for his discovery of the wave nature of electrons""",FRA,47.0,2.0,France
+37,Sir Chandrasekhara Venkata,Raman,1888,1970,India,IN,male,1930,physics,"""for his work on the scattering of light and for the discovery of the effect named after him""",IND,22.8,83.0,India
+38,Werner,Heisenberg,1901,1976,Germany,DE,male,1932,physics,"""for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen""",DDR,52.05,12.39,German Democratic Republic
+39,Erwin,Schrödinger,1887,1961,Austria,AT,male,1933,physics,"""for the discovery of new productive forms of atomic theory""",AUT,48.0,14.0,Austria
+40,Paul A.M.,Dirac,1902,1984,United Kingdom,GB,male,1933,physics,"""for the discovery of new productive forms of atomic theory""",GBR,54.6,-2.0,United Kingdom
+41,James,Chadwick,1891,1974,United Kingdom,GB,male,1935,physics,"""for the discovery of the neutron""",GBR,54.6,-2.0,United Kingdom
+42,Victor F.,Hess,1883,1964,Austria,AT,male,1936,physics,"""for his discovery of cosmic radiation""",AUT,48.0,14.0,Austria
+43,Carl D.,Anderson,1905,1991,USA,US,male,1936,physics,"""for his discovery of the positron""",USA,39.83,-98.58,United States of America
+44,Clinton,Davisson,1881,1958,USA,US,male,1937,physics,"""for their experimental discovery of the diffraction of electrons by crystals""",USA,39.83,-98.58,United States of America
+45,George Paget,Thomson,1892,1975,United Kingdom,GB,male,1937,physics,"""for their experimental discovery of the diffraction of electrons by crystals""",GBR,54.6,-2.0,United Kingdom
+46,Enrico,Fermi,1901,1954,Italy,IT,male,1938,physics,"""for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons""",ITA,42.5,12.5,Italy
+47,Ernest,Lawrence,1901,1958,USA,US,male,1939,physics,"""for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements""",USA,39.83,-98.58,United States of America
+48,Otto,Stern,1888,1969,Germany (now Poland),PL,male,1943,physics,"""for his contribution to the development of the molecular ray method and his discovery of the magnetic moment of the proton""",POL,52.0,19.0,Poland
+49,Isidor Isaac,Rabi,1898,1988,Austria-Hungary (now Poland),PL,male,1944,physics,"""for his resonance method for recording the magnetic properties of atomic nuclei""",POL,52.0,19.0,Poland
+50,Wolfgang,Pauli,1900,1958,Austria,AT,male,1945,physics,"""for the discovery of the Exclusion Principle, also called the Pauli Principle""",AUT,48.0,14.0,Austria
+51,Percy W.,Bridgman,1882,1961,USA,US,male,1946,physics,"""for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics""",USA,39.83,-98.58,United States of America
+52,Edward V.,Appleton,1892,1965,United Kingdom,GB,male,1947,physics,"""for his investigations of the physics of the upper atmosphere especially for the discovery of the so-called Appleton layer""",GBR,54.6,-2.0,United Kingdom
+53,Patrick M.S.,Blackett,1897,1974,United Kingdom,GB,male,1948,physics,"""for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation""",GBR,54.6,-2.0,United Kingdom
+54,Hideki,Yukawa,1907,1981,Japan,JP,male,1949,physics,"""for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces""",JPN,35.0,136.0,Japan
+55,Cecil,Powell,1903,1969,United Kingdom,GB,male,1950,physics,"""for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method""",GBR,54.6,-2.0,United Kingdom
+56,John,Cockcroft,1897,1967,United Kingdom,GB,male,1951,physics,"""for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles""",GBR,54.6,-2.0,United Kingdom
+57,Ernest T.S.,Walton,1903,1995,Ireland,IE,male,1951,physics,"""for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles""",IRL,53.0,-8.0,Republic of Ireland
+58,Felix,Bloch,1905,1983,Switzerland,CH,male,1952,physics,"""for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith""",CHE,46.8,8.23,Switzerland
+59,E. M.,Purcell,1912,1997,USA,US,male,1952,physics,"""for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith""",USA,39.83,-98.58,United States of America
+60,Frits,Zernike,1888,1966,the Netherlands,NL,male,1953,physics,"""for his demonstration of the phase contrast method, especially for his invention of the phase contrast microscope""",NLD,52.32,5.55,Netherlands
+61,Max,Born,1882,1970,Germany (now Poland),PL,male,1954,physics,"""for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction""",POL,52.0,19.0,Poland
+62,Walther,Bothe,1891,1957,Germany,DE,male,1954,physics,"""for the coincidence method and his discoveries made therewith""",DDR,52.05,12.39,German Democratic Republic
+63,Willis E.,Lamb,1913,2008,USA,US,male,1955,physics,"""for his discoveries concerning the fine structure of the hydrogen spectrum""",USA,39.83,-98.58,United States of America
+64,Polykarp,Kusch,1911,1993,Germany,DE,male,1955,physics,"""for his precision determination of the magnetic moment of the electron""",DDR,52.05,12.39,German Democratic Republic
+65,William B.,Shockley,1910,1989,United Kingdom,GB,male,1956,physics,"""for their researches on semiconductors and their discovery of the transistor effect""",GBR,54.6,-2.0,United Kingdom
+66,John,Bardeen,1908,1991,USA,US,male,"1956, 1972","physics, physics","""for their researches on semiconductors and their discovery of the transistor effect"", ""for their jointly developed theory of superconductivity, usually called the BCS-theory""",USA,39.83,-98.58,United States of America
+67,Walter H.,Brattain,1902,1987,China,CN,male,1956,physics,"""for their researches on semiconductors and their discovery of the transistor effect""",CHN,35.84,103.45,People's Republic of China
+68,Chen Ning,Yang,1922,0,China,CN,male,1957,physics,"""for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles""",CHN,35.84,103.45,People's Republic of China
+69,Tsung-Dao,Lee,1926,0,China,CN,male,1957,physics,"""for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles""",CHN,35.84,103.45,People's Republic of China
+70,Pavel A.,Cherenkov,1904,1990,Russia,RU,male,1958,physics,"""for the discovery and the interpretation of the Cherenkov effect""",RUS,66.42,94.25,Russia
+71,Igor Y.,Tamm,1895,1971,Russia,RU,male,1958,physics,"""for the discovery and the interpretation of the Cherenkov effect""",RUS,66.42,94.25,Russia
+72,Emilio,Segrè,1905,1989,Italy,IT,male,1959,physics,"""for their discovery of the antiproton""",ITA,42.5,12.5,Italy
+73,Owen,Chamberlain,1920,2006,USA,US,male,1959,physics,"""for their discovery of the antiproton""",USA,39.83,-98.58,United States of America
+74,Donald A.,Glaser,1926,2013,USA,US,male,1960,physics,"""for the invention of the bubble chamber""",USA,39.83,-98.58,United States of America
+75,Robert,Hofstadter,1915,1990,USA,US,male,1961,physics,"""for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons""",USA,39.83,-98.58,United States of America
+76,Rudolf,Mössbauer,1929,2011,Germany,DE,male,1961,physics,"""for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name""",DDR,52.05,12.39,German Democratic Republic
+77,Lev,Landau,1908,1968,Russian Empire (now Azerbaijan),AZ,male,1962,physics,"""for his pioneering theories for condensed matter, especially liquid helium""",AZE,40.3,47.7,Azerbaijan
+78,Eugene,Wigner,1902,1995,Austria-Hungary (now Hungary),HU,male,1963,physics,"""for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles""",HUN,47.0,19.0,Hungary
+79,Maria,Goeppert Mayer,1906,1972,Germany (now Poland),PL,female,1963,physics,"""for their discoveries concerning nuclear shell structure""",POL,52.0,19.0,Poland
+80,J. Hans D.,Jensen,1907,1973,Germany,DE,male,1963,physics,"""for their discoveries concerning nuclear shell structure""",DDR,52.05,12.39,German Democratic Republic
+81,Charles H.,Townes,1915,2015,USA,US,male,1964,physics,"""for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle""",USA,39.83,-98.58,United States of America
+82,Nicolay G.,Basov,1922,2001,USSR (now Russia),RU,male,1964,physics,"""for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle""",RUS,66.42,94.25,Russia
+83,Aleksandr M.,Prokhorov,1916,2002,Australia,AU,male,1964,physics,"""for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle""",AUS,-28.0,137.0,Australia
+84,Sin-Itiro,Tomonaga,1906,1979,Japan,JP,male,1965,physics,"""for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles""",JPN,35.0,136.0,Japan
+85,Julian,Schwinger,1918,1994,USA,US,male,1965,physics,"""for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles""",USA,39.83,-98.58,United States of America
+86,Richard P.,Feynman,1918,1988,USA,US,male,1965,physics,"""for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles""",USA,39.83,-98.58,United States of America
+87,Alfred,Kastler,1902,1984,Germany (now France),FR,male,1966,physics,"""for the discovery and development of optical methods for studying Hertzian resonances in atoms""",FRA,47.0,2.0,France
+88,Hans,Bethe,1906,2005,Germany (now France),FR,male,1967,physics,"""for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars""",FRA,47.0,2.0,France
+89,Luis,Alvarez,1911,1988,USA,US,male,1968,physics,"""for his decisive contributions to elementary particle physics, in particular the discovery of a large number of resonance states, made possible through his development of the technique of using hydrogen bubble chamber and data analysis""",USA,39.83,-98.58,United States of America
+90,Murray,Gell-Mann,1929,2019,USA,US,male,1969,physics,"""for his contributions and discoveries concerning the classification of elementary particles and their interactions""",USA,39.83,-98.58,United States of America
+91,Hannes,Alfvén,1908,1995,Sweden,SE,male,1970,physics,"""for fundamental work and discoveries in magnetohydro-dynamics with fruitful applications in different parts of plasma physics""",SWE,61.0,15.0,Sweden
+92,Louis,Néel,1904,2000,France,FR,male,1970,physics,"""for fundamental work and discoveries concerning antiferromagnetism and ferrimagnetism which have led to important applications in solid state physics""",FRA,47.0,2.0,France
+93,Dennis,Gabor,1900,1979,Hungary,HU,male,1971,physics,"""for his invention and development of the holographic method""",HUN,47.0,19.0,Hungary
+95,Leon N.,Cooper,1930,0,USA,US,male,1972,physics,"""for their jointly developed theory of superconductivity, usually called the BCS-theory""",USA,39.83,-98.58,United States of America
+96,Robert,Schrieffer,1931,2019,USA,US,male,1972,physics,"""for their jointly developed theory of superconductivity, usually called the BCS-theory""",USA,39.83,-98.58,United States of America
+97,Leo,Esaki,1925,0,Japan,JP,male,1973,physics,"""for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively""",JPN,35.0,136.0,Japan
+98,Ivar,Giaever,1929,0,Norway,NO,male,1973,physics,"""for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively""",NOR,65.0,11.0,Norway
+99,Brian D.,Josephson,1940,0,United Kingdom,GB,male,1973,physics,"""for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the Josephson effects""",GBR,54.6,-2.0,United Kingdom
+100,Martin,Ryle,1918,1984,United Kingdom,GB,male,1974,physics,"""for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars""",GBR,54.6,-2.0,United Kingdom
+101,Antony,Hewish,1924,2021,United Kingdom,GB,male,1974,physics,"""for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars""",GBR,54.6,-2.0,United Kingdom
+102,Aage N.,Bohr,1922,2009,Denmark,DK,male,1975,physics,"""for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection""",DNK,56.0,10.0,Denmark
+103,Ben R.,Mottelson,1926,2022,USA,US,male,1975,physics,"""for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection""",USA,39.83,-98.58,United States of America
+104,James,Rainwater,1917,1986,USA,US,male,1975,physics,"""for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection""",USA,39.83,-98.58,United States of America
+105,Burton,Richter,1931,2018,USA,US,male,1976,physics,"""for their pioneering work in the discovery of a heavy elementary particle of a new kind""",USA,39.83,-98.58,United States of America
+106,Samuel C.C.,Ting,1936,0,USA,US,male,1976,physics,"""for their pioneering work in the discovery of a heavy elementary particle of a new kind""",USA,39.83,-98.58,United States of America
+107,Philip W.,Anderson,1923,2020,USA,US,male,1977,physics,"""for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems""",USA,39.83,-98.58,United States of America
+108,Sir Nevill F.,Mott,1905,1996,United Kingdom,GB,male,1977,physics,"""for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems""",GBR,54.6,-2.0,United Kingdom
+109,John H.,Van Vleck,1899,1980,USA,US,male,1977,physics,"""for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems""",USA,39.83,-98.58,United States of America
+110,Pyotr,Kapitsa,1894,1984,Russian Empire (now Russia),RU,male,1978,physics,"""for his basic inventions and discoveries in the area of low-temperature physics""",RUS,66.42,94.25,Russia
+111,Arno,Penzias,1933,2024,Germany,DE,male,1978,physics,"""for their discovery of cosmic microwave background radiation""",DDR,52.05,12.39,German Democratic Republic
+112,Robert Woodrow,Wilson,1936,0,USA,US,male,1978,physics,"""for their discovery of cosmic microwave background radiation""",USA,39.83,-98.58,United States of America
+113,Sheldon,Glashow,1932,0,USA,US,male,1979,physics,"""for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current""",USA,39.83,-98.58,United States of America
+114,Abdus,Salam,1926,1996,India (now Pakistan),PK,male,1979,physics,"""for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current""",PAK,30.0,71.0,Pakistan
+115,Steven,Weinberg,1933,2021,USA,US,male,1979,physics,"""for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current""",USA,39.83,-98.58,United States of America
+116,James,Cronin,1931,2016,USA,US,male,1980,physics,"""for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons""",USA,39.83,-98.58,United States of America
+117,Val,Fitch,1923,2015,USA,US,male,1980,physics,"""for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons""",USA,39.83,-98.58,United States of America
+118,Nicolaas,Bloembergen,1920,2017,the Netherlands,NL,male,1981,physics,"""for their contribution to the development of laser spectroscopy""",NLD,52.32,5.55,Netherlands
+119,Arthur L.,Schawlow,1921,1999,USA,US,male,1981,physics,"""for their contribution to the development of laser spectroscopy""",USA,39.83,-98.58,United States of America
+120,Kai M.,Siegbahn,1918,2007,Sweden,SE,male,1981,physics,"""for his contribution to the development of high-resolution electron spectroscopy""",SWE,61.0,15.0,Sweden
+121,Kenneth G.,Wilson,1936,2013,USA,US,male,1982,physics,"""for his theory for critical phenomena in connection with phase transitions""",USA,39.83,-98.58,United States of America
+122,Subrahmanyan,Chandrasekhar,1910,1995,India (now Pakistan),PK,male,1983,physics,"""for his theoretical studies of the physical processes of importance to the structure and evolution of the stars""",PAK,30.0,71.0,Pakistan
+123,William A.,Fowler,1911,1995,USA,US,male,1983,physics,"""for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe""",USA,39.83,-98.58,United States of America
+124,Carlo,Rubbia,1934,0,Italy,IT,male,1984,physics,"""for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction""",ITA,42.5,12.5,Italy
+125,Simon,van der Meer,1925,2011,the Netherlands,NL,male,1984,physics,"""for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction""",NLD,52.32,5.55,Netherlands
+126,Klaus,von Klitzing,1943,0,German-occupied Poland (now Poland),PL,male,1985,physics,"""for the discovery of the quantized Hall effect""",POL,52.0,19.0,Poland
+127,Ernst,Ruska,1906,1988,Germany,DE,male,1986,physics,"""for his fundamental work in electron optics, and for the design of the first electron microscope""",DDR,52.05,12.39,German Democratic Republic
+128,Gerd,Binnig,1947,0,West Germany (now Germany),DE,male,1986,physics,"""for their design of the scanning tunneling microscope""",DDR,52.05,12.39,German Democratic Republic
+129,Heinrich,Rohrer,1933,2013,Switzerland,CH,male,1986,physics,"""for their design of the scanning tunneling microscope""",CHE,46.8,8.23,Switzerland
+130,J. Georg,Bednorz,1950,0,West Germany (now Germany),DE,male,1987,physics,"""for their important break-through in the discovery of superconductivity in ceramic materials""",DDR,52.05,12.39,German Democratic Republic
+131,K. Alex,Müller,1927,2023,Switzerland,CH,male,1987,physics,"""for their important break-through in the discovery of superconductivity in ceramic materials""",CHE,46.8,8.23,Switzerland
+132,Leon M.,Lederman,1922,2018,USA,US,male,1988,physics,"""for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino""",USA,39.83,-98.58,United States of America
+133,Melvin,Schwartz,1932,2006,USA,US,male,1988,physics,"""for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino""",USA,39.83,-98.58,United States of America
+134,Jack,Steinberger,1921,2020,Germany,DE,male,1988,physics,"""for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino""",DDR,52.05,12.39,German Democratic Republic
+135,Norman F.,Ramsey,1915,2011,USA,US,male,1989,physics,"""for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks""",USA,39.83,-98.58,United States of America
+136,Hans G.,Dehmelt,1922,2017,Prussia (now Germany),DE,male,1989,physics,"""for the development of the ion trap technique""",DDR,52.05,12.39,German Democratic Republic
+137,Wolfgang,Paul,1913,1993,Germany,DE,male,1989,physics,"""for the development of the ion trap technique""",DDR,52.05,12.39,German Democratic Republic
+138,Jerome I.,Friedman,1930,0,USA,US,male,1990,physics,"""for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics""",USA,39.83,-98.58,United States of America
+139,Henry W.,Kendall,1926,1999,USA,US,male,1990,physics,"""for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics""",USA,39.83,-98.58,United States of America
+140,Richard E.,Taylor,1929,2018,Canada,CA,male,1990,physics,"""for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics""",CAN,56.0,-109.0,Canada
+141,Pierre-Gilles,de Gennes,1932,2007,France,FR,male,1991,physics,"""for discovering that methods developed for studying order phenomena in simple systems can be generalized to more complex forms of matter, in particular to liquid crystals and polymers""",FRA,47.0,2.0,France
+142,Georges,Charpak,1924,2010,Poland,PL,male,1992,physics,"""for his invention and development of particle detectors, in particular the multiwire proportional chamber""",POL,52.0,19.0,Poland
+143,Russell A.,Hulse,1950,0,USA,US,male,1993,physics,"""for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation""",USA,39.83,-98.58,United States of America
+144,Joseph H.,Taylor Jr.,1941,0,USA,US,male,1993,physics,"""for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation""",USA,39.83,-98.58,United States of America
+145,Bertram N.,Brockhouse,1918,2003,Canada,CA,male,1994,physics,"""for the development of neutron spectroscopy""",CAN,56.0,-109.0,Canada
+146,Clifford G.,Shull,1915,2001,USA,US,male,1994,physics,"""for the development of the neutron diffraction technique""",USA,39.83,-98.58,United States of America
+147,Martin L.,Perl,1927,2014,USA,US,male,1995,physics,"""for the discovery of the tau lepton""",USA,39.83,-98.58,United States of America
+148,Frederick,Reines,1918,1998,USA,US,male,1995,physics,"""for the detection of the neutrino""",USA,39.83,-98.58,United States of America
+149,David M.,Lee,1931,0,USA,US,male,1996,physics,"""for their discovery of superfluidity in helium-3""",USA,39.83,-98.58,United States of America
+150,Douglas D.,Osheroff,1945,0,USA,US,male,1996,physics,"""for their discovery of superfluidity in helium-3""",USA,39.83,-98.58,United States of America
+151,Robert C.,Richardson,1937,2013,USA,US,male,1996,physics,"""for their discovery of superfluidity in helium-3""",USA,39.83,-98.58,United States of America
+152,Steven,Chu,1948,0,USA,US,male,1997,physics,"""for development of methods to cool and trap atoms with laser light""",USA,39.83,-98.58,United States of America
+153,Claude,Cohen-Tannoudji,1933,0,French Algeria (now Algeria),DZ,male,1997,physics,"""for development of methods to cool and trap atoms with laser light""",DZA,28.0,1.0,Algeria
+154,William D.,Phillips,1948,0,USA,US,male,1997,physics,"""for development of methods to cool and trap atoms with laser light""",USA,39.83,-98.58,United States of America
+155,Robert B.,Laughlin,1950,0,USA,US,male,1998,physics,"""for their discovery of a new form of quantum fluid with fractionally charged excitations""",USA,39.83,-98.58,United States of America
+156,Horst L.,Störmer,1949,0,West Germany (now Germany),DE,male,1998,physics,"""for their discovery of a new form of quantum fluid with fractionally charged excitations""",DDR,52.05,12.39,German Democratic Republic
+157,Daniel C.,Tsui,1939,0,China,CN,male,1998,physics,"""for their discovery of a new form of quantum fluid with fractionally charged excitations""",CHN,35.84,103.45,People's Republic of China
+158,Gerardus,'t Hooft,1946,0,the Netherlands,NL,male,1999,physics,"""for elucidating the quantum structure of electroweak interactions in physics""",NLD,52.32,5.55,Netherlands
+159,Martinus J.G.,Veltman,1931,2021,the Netherlands,NL,male,1999,physics,"""for elucidating the quantum structure of electroweak interactions in physics""",NLD,52.32,5.55,Netherlands
+160,Jacobus H.,van 't Hoff,1852,1911,the Netherlands,NL,male,1901,chemistry,"""in recognition of the extraordinary services he has rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions""",NLD,52.32,5.55,Netherlands
+161,Emil,Fischer,1852,1919,Prussia (now Germany),DE,male,1902,chemistry,"""in recognition of the extraordinary services he has rendered by his work on sugar and purine syntheses""",DDR,52.05,12.39,German Democratic Republic
+162,Svante,Arrhenius,1859,1927,Sweden,SE,male,1903,chemistry,"""in recognition of the extraordinary services he has rendered to the advancement of chemistry by his electrolytic theory of dissociation""",SWE,61.0,15.0,Sweden
+163,Sir William,Ramsay,1852,1916,Scotland,GB,male,1904,chemistry,"""in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system""",GBR,54.6,-2.0,United Kingdom
+164,Adolf,von Baeyer,1835,1917,Prussia (now Germany),DE,male,1905,chemistry,"""in recognition of his services in the advancement of organic chemistry and the chemical industry, through his work on organic dyes and hydroaromatic compounds""",DDR,52.05,12.39,German Democratic Republic
+165,Henri,Moissan,1852,1907,France,FR,male,1906,chemistry,"""in recognition of the great services rendered by him in his investigation and isolation of the element fluorine, and for the adoption in the service of science of the electric furnace called after him""",FRA,47.0,2.0,France
+166,Eduard,Buchner,1860,1917,Bavaria (now Germany),DE,male,1907,chemistry,"""for his biochemical researches and his discovery of cell-free fermentation""",DDR,52.05,12.39,German Democratic Republic
+167,Ernest,Rutherford,1871,1937,New Zealand,NZ,male,1908,chemistry,"""for his investigations into the disintegration of the elements, and the chemistry of radioactive substances""",NZL,-41.2,174.0,New Zealand
+168,Wilhelm,Ostwald,1853,1932,Russian Empire (now Latvia),LV,male,1909,chemistry,"""in recognition of his work on catalysis and for his investigations into the fundamental principles governing chemical equilibria and rates of reaction""",LVA,57.0,25.0,Latvia
+169,Otto,Wallach,1847,1931,Germany (now Russia),RU,male,1910,chemistry,"""in recognition of his services to organic chemistry and the chemical industry by his pioneer work in the field of alicyclic compounds""",RUS,66.42,94.25,Russia
+172,Victor,Grignard,1871,1935,France,FR,male,1912,chemistry,"""for the discovery of the so-called Grignard reagent, which in recent years has greatly advanced the progress of organic chemistry""",FRA,47.0,2.0,France
+173,Paul,Sabatier,1854,1941,France,FR,male,1912,chemistry,"""for his method of hydrogenating organic compounds in the presence of finely disintegrated metals whereby the progress of organic chemistry has been greatly advanced in recent years""",FRA,47.0,2.0,France
+174,Alfred,Werner,1866,1919,France,FR,male,1913,chemistry,"""in recognition of his work on the linkage of atoms in molecules by which he has thrown new light on earlier investigations and opened up new fields of research especially in inorganic chemistry""",FRA,47.0,2.0,France
+175,Theodore W.,Richards,1868,1928,USA,US,male,1914,chemistry,"""in recognition of his accurate determinations of the atomic weight of a large number of chemical elements""",USA,39.83,-98.58,United States of America
+176,Richard,Willstätter,1872,1942,Germany,DE,male,1915,chemistry,"""for his researches on plant pigments, especially chlorophyll""",DDR,52.05,12.39,German Democratic Republic
+177,Fritz,Haber,1868,1934,Prussia (now Poland),PL,male,1918,chemistry,"""for the synthesis of ammonia from its elements""",POL,52.0,19.0,Poland
+178,Walther,Nernst,1864,1941,Prussia (now Poland),PL,male,1920,chemistry,"""in recognition of his work in thermochemistry""",POL,52.0,19.0,Poland
+179,Frederick,Soddy,1877,1956,United Kingdom,GB,male,1921,chemistry,"""for his contributions to our knowledge of the chemistry of radioactive substances, and his investigations into the origin and nature of isotopes""",GBR,54.6,-2.0,United Kingdom
+180,Francis W.,Aston,1877,1945,United Kingdom,GB,male,1922,chemistry,"""for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule""",GBR,54.6,-2.0,United Kingdom
+181,Fritz,Pregl,1869,1930,Austria-Hungary (now Slovenia),SI,male,1923,chemistry,"""for his invention of the method of micro-analysis of organic substances""",SVN,46.0,15.0,Slovenia
+182,Richard,Zsigmondy,1865,1929,Austrian Empire (now Austria),AT,male,1925,chemistry,"""for his demonstration of the heterogenous nature of colloid solutions and for the methods he used, which have since become fundamental in modern colloid chemistry""",AUT,48.0,14.0,Austria
+183,The,Svedberg,1884,1971,Sweden,SE,male,1926,chemistry,"""for his work on disperse systems""",SWE,61.0,15.0,Sweden
+184,Heinrich,Wieland,1877,1957,Germany,DE,male,1927,chemistry,"""for his investigations of the constitution of the bile acids and related substances""",DDR,52.05,12.39,German Democratic Republic
+185,Adolf,Windaus,1876,1959,Germany,DE,male,1928,chemistry,"""for the services rendered through his research into the constitution of the sterols and their connection with the vitamins""",DDR,52.05,12.39,German Democratic Republic
+186,Arthur,Harden,1865,1940,United Kingdom,GB,male,1929,chemistry,"""for their investigations on the fermentation of sugar and fermentative enzymes""",GBR,54.6,-2.0,United Kingdom
+187,Hans,von Euler-Chelpin,1873,1964,Germany,DE,male,1929,chemistry,"""for their investigations on the fermentation of sugar and fermentative enzymes""",DDR,52.05,12.39,German Democratic Republic
+188,Hans,Fischer,1881,1945,Germany,DE,male,1930,chemistry,"""for his researches into the constitution of haemin and chlorophyll and especially for his synthesis of haemin""",DDR,52.05,12.39,German Democratic Republic
+189,Carl,Bosch,1874,1940,Germany,DE,male,1931,chemistry,"""in recognition of their contributions to the invention and development of chemical high pressure methods""",DDR,52.05,12.39,German Democratic Republic
+190,Friedrich,Bergius,1884,1949,Germany (now Poland),PL,male,1931,chemistry,"""in recognition of their contributions to the invention and development of chemical high pressure methods""",POL,52.0,19.0,Poland
+191,Irving,Langmuir,1881,1957,USA,US,male,1932,chemistry,"""for his discoveries and investigations in surface chemistry""",USA,39.83,-98.58,United States of America
+192,Harold C.,Urey,1893,1981,USA,US,male,1934,chemistry,"""for his discovery of heavy hydrogen""",USA,39.83,-98.58,United States of America
+193,Frédéric,Joliot,1900,1958,France,FR,male,1935,chemistry,"""in recognition of their synthesis of new radioactive elements""",FRA,47.0,2.0,France
+194,Irène,Joliot-Curie,1897,1956,France,FR,female,1935,chemistry,"""in recognition of their synthesis of new radioactive elements""",FRA,47.0,2.0,France
+195,Peter,Debye,1884,1966,the Netherlands,NL,male,1936,chemistry,"""for his contributions to our knowledge of molecular structure through his investigations on dipole moments and on the diffraction of X-rays and electrons in gases""",NLD,52.32,5.55,Netherlands
+196,Norman,Haworth,1883,1950,United Kingdom,GB,male,1937,chemistry,"""for his investigations on carbohydrates and vitamin C""",GBR,54.6,-2.0,United Kingdom
+197,Paul,Karrer,1889,1971,Russia,RU,male,1937,chemistry,"""for his investigations on carotenoids, flavins and vitamins A and B2""",RUS,66.42,94.25,Russia
+198,Richard,Kuhn,1900,1967,Austria-Hungary (now Austria),AT,male,1938,chemistry,"""for his work on carotenoids and vitamins""",AUT,48.0,14.0,Austria
+199,Adolf,Butenandt,1903,1995,Germany,DE,male,1939,chemistry,"""for his work on sex hormones""",DDR,52.05,12.39,German Democratic Republic
+200,Leopold,Ruzicka,1887,1976,Austria-Hungary (now Croatia),HR,male,1939,chemistry,"""for his work on polymethylenes and higher terpenes""",HRV,45.25,15.47,Croatia
+201,George,de Hevesy,1885,1966,Austria-Hungary (now Hungary),HU,male,1943,chemistry,"""for his work on the use of isotopes as tracers in the study of chemical processes""",HUN,47.0,19.0,Hungary
+202,Otto,Hahn,1879,1968,Germany,DE,male,1944,chemistry,"""for his discovery of the fission of heavy nuclei""",DDR,52.05,12.39,German Democratic Republic
+203,Artturi,Virtanen,1895,1973,Russian Empire (now Finland),FI,male,1945,chemistry,"""for his research and inventions in agricultural and nutrition chemistry, especially for his fodder preservation method""",FIN,65.0,27.0,Finland
+204,James B.,Sumner,1887,1955,USA,US,male,1946,chemistry,"""for his discovery that enzymes can be crystallized""",USA,39.83,-98.58,United States of America
+205,John H.,Northrop,1891,1987,USA,US,male,1946,chemistry,"""for their preparation of enzymes and virus proteins in a pure form""",USA,39.83,-98.58,United States of America
+206,Wendell M.,Stanley,1904,1971,USA,US,male,1946,chemistry,"""for their preparation of enzymes and virus proteins in a pure form""",USA,39.83,-98.58,United States of America
+207,Sir Robert,Robinson,1886,1975,United Kingdom,GB,male,1947,chemistry,"""for his investigations on plant products of biological importance, especially the alkaloids""",GBR,54.6,-2.0,United Kingdom
+208,Arne,Tiselius,1902,1971,Sweden,SE,male,1948,chemistry,"""for his research on electrophoresis and adsorption analysis, especially for his discoveries concerning the complex nature of the serum proteins""",SWE,61.0,15.0,Sweden
+209,William F.,Giauque,1895,1982,Canada,CA,male,1949,chemistry,"""for his contributions in the field of chemical thermodynamics, particularly concerning the behaviour of substances at extremely low temperatures""",CAN,56.0,-109.0,Canada
+210,Otto,Diels,1876,1954,Germany,DE,male,1950,chemistry,"""for their discovery and development of the diene synthesis""",DDR,52.05,12.39,German Democratic Republic
+211,Kurt,Alder,1902,1958,Prussia (now Poland),PL,male,1950,chemistry,"""for their discovery and development of the diene synthesis""",POL,52.0,19.0,Poland
+212,Edwin M.,McMillan,1907,1991,USA,US,male,1951,chemistry,"""for their discoveries in the chemistry of the transuranium elements""",USA,39.83,-98.58,United States of America
+213,Glenn T.,Seaborg,1912,1999,USA,US,male,1951,chemistry,"""for their discoveries in the chemistry of the transuranium elements""",USA,39.83,-98.58,United States of America
+214,Archer J.P.,Martin,1910,2002,United Kingdom,GB,male,1952,chemistry,"""for their invention of partition chromatography""",GBR,54.6,-2.0,United Kingdom
+215,Richard L.M.,Synge,1914,1994,United Kingdom,GB,male,1952,chemistry,"""for their invention of partition chromatography""",GBR,54.6,-2.0,United Kingdom
+216,Hermann,Staudinger,1881,1965,Germany,DE,male,1953,chemistry,"""for his discoveries in the field of macromolecular chemistry""",DDR,52.05,12.39,German Democratic Republic
+217,Linus,Pauling,1901,1994,USA,US,male,"1954, 1962","chemistry, peace","""for his research into the nature of the chemical bond and its application to the elucidation of the structure of complex substances"", ""for his fight against the nuclear arms race between East and West""",USA,39.83,-98.58,United States of America
+218,Vincent,du Vigneaud,1901,1978,USA,US,male,1955,chemistry,"""for his work on biochemically important sulphur compounds, especially for the first synthesis of a polypeptide hormone""",USA,39.83,-98.58,United States of America
+219,Sir Cyril,Hinshelwood,1897,1967,United Kingdom,GB,male,1956,chemistry,"""for their researches into the mechanism of chemical reactions""",GBR,54.6,-2.0,United Kingdom
+220,Nikolay,Semenov,1896,1986,Russia,RU,male,1956,chemistry,"""for their researches into the mechanism of chemical reactions""",RUS,66.42,94.25,Russia
+221,Lord,Todd,1907,1997,Scotland,GB,male,1957,chemistry,"""for his work on nucleotides and nucleotide co-enzymes""",GBR,54.6,-2.0,United Kingdom
+222,Frederick,Sanger,1918,2013,United Kingdom,GB,male,"1958, 1980","chemistry, chemistry","""for his work on the structure of proteins, especially that of insulin"", ""for their contributions concerning the determination of base sequences in nucleic acids""",GBR,54.6,-2.0,United Kingdom
+223,Jaroslav,Heyrovsky,1890,1967,Austria-Hungary (now Czech Republic),CZ,male,1959,chemistry,"""for his discovery and development of the polarographic methods of analysis""",CZE,49.5,16.0,Czech Republic
+224,Willard F.,Libby,1908,1980,USA,US,male,1960,chemistry,"""for his method to use carbon-14 for age determination in archaeology, geology, geophysics, and other branches of science""",USA,39.83,-98.58,United States of America
+225,Melvin,Calvin,1911,1997,USA,US,male,1961,chemistry,"""for his research on the carbon dioxide assimilation in plants""",USA,39.83,-98.58,United States of America
+226,Max F.,Perutz,1914,2002,Austria,AT,male,1962,chemistry,"""for their studies of the structures of globular proteins""",AUT,48.0,14.0,Austria
+227,John C.,Kendrew,1917,1997,United Kingdom,GB,male,1962,chemistry,"""for their studies of the structures of globular proteins""",GBR,54.6,-2.0,United Kingdom
+228,Karl,Ziegler,1898,1973,Germany,DE,male,1963,chemistry,"""for their discoveries in the field of the chemistry and technology of high polymers""",DDR,52.05,12.39,German Democratic Republic
+229,Giulio,Natta,1903,1979,Italy,IT,male,1963,chemistry,"""for their discoveries in the field of the chemistry and technology of high polymers""",ITA,42.5,12.5,Italy
+230,Dorothy Crowfoot,Hodgkin,1910,1994,Egypt,EG,female,1964,chemistry,"""for her determinations by X-ray techniques of the structures of important biochemical substances""",EGY,27.0,29.0,Egypt
+231,Robert B.,Woodward,1917,1979,USA,US,male,1965,chemistry,"""for his outstanding achievements in the art of organic synthesis""",USA,39.83,-98.58,United States of America
+232,Robert S.,Mulliken,1896,1986,USA,US,male,1966,chemistry,"""for his fundamental work concerning chemical bonds and the electronic structure of molecules by the molecular orbital method""",USA,39.83,-98.58,United States of America
+233,Manfred,Eigen,1927,2019,Germany,DE,male,1967,chemistry,"""for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy""",DDR,52.05,12.39,German Democratic Republic
+234,Ronald G.W.,Norrish,1897,1978,United Kingdom,GB,male,1967,chemistry,"""for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy""",GBR,54.6,-2.0,United Kingdom
+235,George,Porter,1920,2002,United Kingdom,GB,male,1967,chemistry,"""for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy""",GBR,54.6,-2.0,United Kingdom
+236,Lars,Onsager,1903,1976,Norway,NO,male,1968,chemistry,"""for the discovery of the reciprocal relations bearing his name, which are fundamental for the thermodynamics of irreversible processes""",NOR,65.0,11.0,Norway
+237,Derek,Barton,1918,1998,United Kingdom,GB,male,1969,chemistry,"""for their contributions to the development of the concept of conformation and its application in chemistry""",GBR,54.6,-2.0,United Kingdom
+238,Odd,Hassel,1897,1981,Norway,NO,male,1969,chemistry,"""for their contributions to the development of the concept of conformation and its application in chemistry""",NOR,65.0,11.0,Norway
+239,Luis,Leloir,1906,1987,France,FR,male,1970,chemistry,"""for his discovery of sugar nucleotides and their role in the biosynthesis of carbohydrates""",FRA,47.0,2.0,France
+240,Gerhard,Herzberg,1904,1999,Germany,DE,male,1971,chemistry,"""for his contributions to the knowledge of electronic structure and geometry of molecules, particularly free radicals""",DDR,52.05,12.39,German Democratic Republic
+241,Christian,Anfinsen,1916,1995,USA,US,male,1972,chemistry,"""for his work on ribonuclease, especially concerning the connection between the amino acid sequence and the biologically active conformation""",USA,39.83,-98.58,United States of America
+242,Stanford,Moore,1913,1982,USA,US,male,1972,chemistry,"""for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule""",USA,39.83,-98.58,United States of America
+243,William H.,Stein,1911,1980,USA,US,male,1972,chemistry,"""for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule""",USA,39.83,-98.58,United States of America
+244,Ernst Otto,Fischer,1918,2007,Germany,DE,male,1973,chemistry,"""for their pioneering work, performed independently, on the chemistry of the organometallic, so called sandwich compounds""",DDR,52.05,12.39,German Democratic Republic
+245,Geoffrey,Wilkinson,1921,1996,United Kingdom,GB,male,1973,chemistry,"""for their pioneering work, performed independently, on the chemistry of the organometallic, so called sandwich compounds""",GBR,54.6,-2.0,United Kingdom
+246,Paul J.,Flory,1910,1985,USA,US,male,1974,chemistry,"""for his fundamental achievements, both theoretical and experimental, in the physical chemistry of the macromolecules""",USA,39.83,-98.58,United States of America
+247,John,Cornforth,1917,2013,Australia,AU,male,1975,chemistry,"""for his work on the stereochemistry of enzyme-catalyzed reactions""",AUS,-28.0,137.0,Australia
+248,Vladimir,Prelog,1906,1998,Austria-Hungary (now Bosnia and Herzegovina),BA,male,1975,chemistry,"""for his research into the stereochemistry of organic molecules and reactions""",BIH,44.0,18.0,Bosnia and Herzegovina
+249,William,Lipscomb,1919,2011,USA,US,male,1976,chemistry,"""for his studies on the structure of boranes illuminating problems of chemical bonding""",USA,39.83,-98.58,United States of America
+250,Ilya,Prigogine,1917,2003,Russia,RU,male,1977,chemistry,"""for his contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures""",RUS,66.42,94.25,Russia
+251,Peter,Mitchell,1920,1992,United Kingdom,GB,male,1978,chemistry,"""for his contribution to the understanding of biological energy transfer through the formulation of the chemiosmotic theory""",GBR,54.6,-2.0,United Kingdom
+252,Herbert C.,Brown,1912,2004,United Kingdom,GB,male,1979,chemistry,"""for their development of the use of boron- and phosphorus-containing compounds, respectively, into important reagents in organic synthesis""",GBR,54.6,-2.0,United Kingdom
+253,Georg,Wittig,1897,1987,Germany,DE,male,1979,chemistry,"""for their development of the use of boron- and phosphorus-containing compounds, respectively, into important reagents in organic synthesis""",DDR,52.05,12.39,German Democratic Republic
+254,Paul,Berg,1926,2023,USA,US,male,1980,chemistry,"""for his fundamental studies of the biochemistry of nucleic acids, with particular regard to recombinant-DNA""",USA,39.83,-98.58,United States of America
+255,Walter,Gilbert,1932,0,USA,US,male,1980,chemistry,"""for their contributions concerning the determination of base sequences in nucleic acids""",USA,39.83,-98.58,United States of America
+257,Kenichi,Fukui,1918,1998,Japan,JP,male,1981,chemistry,"""for their theories, developed independently, concerning the course of chemical reactions""",JPN,35.0,136.0,Japan
+258,Roald,Hoffmann,1937,0,Poland (now Ukraine),UA,male,1981,chemistry,"""for their theories, developed independently, concerning the course of chemical reactions""",UKR,49.0,32.0,Ukraine
+259,Aaron,Klug,1926,2018,Lithuania,LT,male,1982,chemistry,"""for his development of crystallographic electron microscopy and his structural elucidation of biologically important nucleic acid-protein complexes""",LTU,55.2,24.0,Lithuania
+260,Henry,Taube,1915,2005,Canada,CA,male,1983,chemistry,"""for his work on the mechanisms of electron transfer reactions, especially in metal complexes""",CAN,56.0,-109.0,Canada
+261,Bruce,Merrifield,1921,2006,USA,US,male,1984,chemistry,"""for his development of methodology for chemical synthesis on a solid matrix""",USA,39.83,-98.58,United States of America
+262,Herbert A.,Hauptman,1917,2011,USA,US,male,1985,chemistry,"""for their outstanding achievements in the development of direct methods for the determination of crystal structures""",USA,39.83,-98.58,United States of America
+263,Jerome,Karle,1918,2013,USA,US,male,1985,chemistry,"""for their outstanding achievements in the development of direct methods for the determination of crystal structures""",USA,39.83,-98.58,United States of America
+264,Dudley R.,Herschbach,1932,0,USA,US,male,1986,chemistry,"""for their contributions concerning the dynamics of chemical elementary processes""",USA,39.83,-98.58,United States of America
+265,Yuan T.,Lee,1936,0,Taiwan,TW,male,1986,chemistry,"""for their contributions concerning the dynamics of chemical elementary processes""",TWN,24.0,121.0,Taiwan
+266,John C.,Polanyi,1929,0,Germany,DE,male,1986,chemistry,"""for their contributions concerning the dynamics of chemical elementary processes""",DDR,52.05,12.39,German Democratic Republic
+267,Donald J.,Cram,1919,2001,USA,US,male,1987,chemistry,"""for their development and use of molecules with structure-specific interactions of high selectivity""",USA,39.83,-98.58,United States of America
+268,Jean-Marie,Lehn,1939,0,France,FR,male,1987,chemistry,"""for their development and use of molecules with structure-specific interactions of high selectivity""",FRA,47.0,2.0,France
+269,Charles J.,Pedersen,1904,1989,Korea (now South Korea),KR,male,1987,chemistry,"""for their development and use of molecules with structure-specific interactions of high selectivity""",KOR,36.0,128.0,South Korea
+270,Johann,Deisenhofer,1943,0,Germany,DE,male,1988,chemistry,"""for the determination of the three-dimensional structure of a photosynthetic reaction centre""",DDR,52.05,12.39,German Democratic Republic
+271,Robert,Huber,1937,0,Germany,DE,male,1988,chemistry,"""for the determination of the three-dimensional structure of a photosynthetic reaction centre""",DDR,52.05,12.39,German Democratic Republic
+272,Hartmut,Michel,1948,0,West Germany (now Germany),DE,male,1988,chemistry,"""for the determination of the three-dimensional structure of a photosynthetic reaction centre""",DDR,52.05,12.39,German Democratic Republic
+273,Sidney,Altman,1939,2022,Canada,CA,male,1989,chemistry,"""for their discovery of catalytic properties of RNA""",CAN,56.0,-109.0,Canada
+274,Thomas R.,Cech,1947,0,USA,US,male,1989,chemistry,"""for their discovery of catalytic properties of RNA""",USA,39.83,-98.58,United States of America
+275,Elias James,Corey,1928,0,USA,US,male,1990,chemistry,"""for his development of the theory and methodology of organic synthesis""",USA,39.83,-98.58,United States of America
+276,Richard R.,Ernst,1933,2021,Switzerland,CH,male,1991,chemistry,"""for his contributions to the development of the methodology of high resolution nuclear magnetic resonance (NMR) spectroscopy""",CHE,46.8,8.23,Switzerland
+277,Rudolph A.,Marcus,1923,0,Canada,CA,male,1992,chemistry,"""for his contributions to the theory of electron transfer reactions in chemical systems""",CAN,56.0,-109.0,Canada
+278,Kary B.,Mullis,1944,2019,USA,US,male,1993,chemistry,"""for his invention of the polymerase chain reaction (PCR) method""",USA,39.83,-98.58,United States of America
+279,Michael,Smith,1932,2000,United Kingdom,GB,male,1993,chemistry,"""for his fundamental contributions to the establishment of oligonucleotide-based, site-directed mutagenesis and its development for protein studies""",GBR,54.6,-2.0,United Kingdom
+280,George A.,Olah,1927,2017,Hungary,HU,male,1994,chemistry,"""for his contribution to carbocation chemistry""",HUN,47.0,19.0,Hungary
+281,Paul J.,Crutzen,1933,2021,the Netherlands,NL,male,1995,chemistry,"""for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone""",NLD,52.32,5.55,Netherlands
+282,Mario J.,Molina,1943,2020,Mexico,MX,male,1995,chemistry,"""for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone""",MEX,23.0,-102.0,Mexico
+283,F. Sherwood,Rowland,1927,2012,USA,US,male,1995,chemistry,"""for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone""",USA,39.83,-98.58,United States of America
+284,Robert F.,Curl Jr.,1933,2022,USA,US,male,1996,chemistry,"""for their discovery of fullerenes""",USA,39.83,-98.58,United States of America
+285,Sir Harold,Kroto,1939,2016,United Kingdom,GB,male,1996,chemistry,"""for their discovery of fullerenes""",GBR,54.6,-2.0,United Kingdom
+286,Richard E.,Smalley,1943,2005,USA,US,male,1996,chemistry,"""for their discovery of fullerenes""",USA,39.83,-98.58,United States of America
+287,Paul D.,Boyer,1918,2018,USA,US,male,1997,chemistry,"""for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate (ATP)""",USA,39.83,-98.58,United States of America
+288,John E.,Walker,1941,0,United Kingdom,GB,male,1997,chemistry,"""for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate (ATP)""",GBR,54.6,-2.0,United Kingdom
+289,Jens C.,Skou,1918,2018,Denmark,DK,male,1997,chemistry,"""for the first discovery of an ion-transporting enzyme, Na+, K+ -ATPase""",DNK,56.0,10.0,Denmark
+290,Walter,Kohn,1923,2016,Austria,AT,male,1998,chemistry,"""for his development of the density-functional theory""",AUT,48.0,14.0,Austria
+291,John,Pople,1925,2004,United Kingdom,GB,male,1998,chemistry,"""for his development of computational methods in quantum chemistry""",GBR,54.6,-2.0,United Kingdom
+292,Ahmed,Zewail,1946,2016,Egypt,EG,male,1999,chemistry,"""for his studies of the transition states of chemical reactions using femtosecond spectroscopy""",EGY,27.0,29.0,Egypt
+293,Emil,von Behring,1854,1917,Prussia (now Poland),PL,male,1901,medicine,"""for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths""",POL,52.0,19.0,Poland
+294,Ronald,Ross,1857,1932,India,IN,male,1902,medicine,"""for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it""",IND,22.8,83.0,India
+295,Niels Ryberg,Finsen,1860,1904,Faroe Islands (Denmark),DK,male,1903,medicine,"""in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science""",DNK,56.0,10.0,Denmark
+296,Ivan,Pavlov,1849,1936,Russia,RU,male,1904,medicine,"""in recognition of his work on the physiology of digestion, through which knowledge on vital aspects of the subject has been transformed and enlarged""",RUS,66.42,94.25,Russia
+297,Robert,Koch,1843,1910,Germany,DE,male,1905,medicine,"""for his investigations and discoveries in relation to tuberculosis""",DDR,52.05,12.39,German Democratic Republic
+298,Camillo,Golgi,1843,1926,Italy,IT,male,1906,medicine,"""in recognition of their work on the structure of the nervous system""",ITA,42.5,12.5,Italy
+299,Santiago,Ramón y Cajal,1852,1934,Spain,ES,male,1906,medicine,"""in recognition of their work on the structure of the nervous system""",ESP,40.2,-3.5,Spain
+300,Alphonse,Laveran,1845,1922,France,FR,male,1907,medicine,"""in recognition of his work on the role played by protozoa in causing diseases""",FRA,47.0,2.0,France
+301,Ilya,Mechnikov,1845,1916,Russian Empire (now Ukraine),UA,male,1908,medicine,"""in recognition of their work on immunity""",UKR,49.0,32.0,Ukraine
+302,Paul,Ehrlich,1854,1915,Prussia (now Poland),PL,male,1908,medicine,"""in recognition of their work on immunity""",POL,52.0,19.0,Poland
+303,Theodor,Kocher,1841,1917,Switzerland,CH,male,1909,medicine,"""for his work on the physiology, pathology and surgery of the thyroid gland""",CHE,46.8,8.23,Switzerland
+304,Albrecht,Kossel,1853,1927,Mecklenburg (now Germany),DE,male,1910,medicine,"""in recognition of the contributions to our knowledge of cell chemistry made through his work on proteins, including the nucleic substances""",DDR,52.05,12.39,German Democratic Republic
+305,Allvar,Gullstrand,1862,1930,Sweden,SE,male,1911,medicine,"""for his work on the dioptrics of the eye""",SWE,61.0,15.0,Sweden
+306,Alexis,Carrel,1873,1944,France,FR,male,1912,medicine,"""in recognition of his work on vascular suture and the transplantation of blood vessels and organs""",FRA,47.0,2.0,France
+307,Charles,Richet,1850,1935,France,FR,male,1913,medicine,"""in recognition of his work on anaphylaxis""",FRA,47.0,2.0,France
+308,Robert,Bárány,1876,1936,Austria,AT,male,1914,medicine,"""for his work on the physiology and pathology of the vestibular apparatus""",AUT,48.0,14.0,Austria
+309,Jules,Bordet,1870,1961,Belgium,BE,male,1919,medicine,"""for his discoveries relating to immunity""",BEL,50.64,4.67,Belgium
+310,August,Krogh,1874,1949,Denmark,DK,male,1920,medicine,"""for his discovery of the capillary motor regulating mechanism""",DNK,56.0,10.0,Denmark
+311,Archibald V.,Hill,1886,1977,United Kingdom,GB,male,1922,medicine,"""for his discovery relating to the production of heat in the muscle""",GBR,54.6,-2.0,United Kingdom
+312,Otto,Meyerhof,1884,1951,Germany,DE,male,1922,medicine,"""for his discovery of the fixed relationship between the consumption of oxygen and the metabolism of lactic acid in the muscle""",DDR,52.05,12.39,German Democratic Republic
+313,Frederick G.,Banting,1891,1941,Canada,CA,male,1923,medicine,"""for the discovery of insulin""",CAN,56.0,-109.0,Canada
+314,John,Macleod,1876,1935,Scotland,GB,male,1923,medicine,"""for the discovery of insulin""",GBR,54.6,-2.0,United Kingdom
+315,Willem,Einthoven,1860,1927,"Java, Dutch East Indies (now Indonesia)",ID,male,1924,medicine,"""for his discovery of the mechanism of the electrocardiogram""",IDN,-2.0,118.0,Indonesia
+316,Johannes,Fibiger,1867,1928,Denmark,DK,male,1926,medicine,"""for his discovery of the Spiroptera carcinoma""",DNK,56.0,10.0,Denmark
+317,Julius,Wagner-Jauregg,1857,1940,Austria,AT,male,1927,medicine,"""for his discovery of the therapeutic value of malaria inoculation in the treatment of dementia paralytica""",AUT,48.0,14.0,Austria
+318,Charles,Nicolle,1866,1936,France,FR,male,1928,medicine,"""for his work on typhus""",FRA,47.0,2.0,France
+319,Christiaan,Eijkman,1858,1930,the Netherlands,NL,male,1929,medicine,"""for his discovery of the antineuritic vitamin""",NLD,52.32,5.55,Netherlands
+320,Sir Frederick,Hopkins,1861,1947,United Kingdom,GB,male,1929,medicine,"""for his discovery of the growth-stimulating vitamins""",GBR,54.6,-2.0,United Kingdom
+321,Karl,Landsteiner,1868,1943,Austrian Empire (now Austria),AT,male,1930,medicine,"""for his discovery of human blood groups""",AUT,48.0,14.0,Austria
+322,Otto,Warburg,1883,1970,Germany,DE,male,1931,medicine,"""for his discovery of the nature and mode of action of the respiratory enzyme""",DDR,52.05,12.39,German Democratic Republic
+323,Sir Charles,Sherrington,1857,1952,United Kingdom,GB,male,1932,medicine,"""for their discoveries regarding the functions of neurons""",GBR,54.6,-2.0,United Kingdom
+324,Edgar,Adrian,1889,1977,United Kingdom,GB,male,1932,medicine,"""for their discoveries regarding the functions of neurons""",GBR,54.6,-2.0,United Kingdom
+325,Thomas H.,Morgan,1866,1945,USA,US,male,1933,medicine,"""for his discoveries concerning the role played by the chromosome in heredity""",USA,39.83,-98.58,United States of America
+326,George H.,Whipple,1878,1976,USA,US,male,1934,medicine,"""for their discoveries concerning liver therapy in cases of anaemia""",USA,39.83,-98.58,United States of America
+327,George R.,Minot,1885,1950,USA,US,male,1934,medicine,"""for their discoveries concerning liver therapy in cases of anaemia""",USA,39.83,-98.58,United States of America
+328,William P.,Murphy,1892,1987,USA,US,male,1934,medicine,"""for their discoveries concerning liver therapy in cases of anaemia""",USA,39.83,-98.58,United States of America
+329,Hans,Spemann,1869,1941,Württemberg (now Germany),DE,male,1935,medicine,"""for his discovery of the organizer effect in embryonic development""",DDR,52.05,12.39,German Democratic Republic
+330,Sir Henry,Dale,1875,1968,United Kingdom,GB,male,1936,medicine,"""for their discoveries relating to chemical transmission of nerve impulses""",GBR,54.6,-2.0,United Kingdom
+331,Otto,Loewi,1873,1961,Germany,DE,male,1936,medicine,"""for their discoveries relating to chemical transmission of nerve impulses""",DDR,52.05,12.39,German Democratic Republic
+332,Albert,Szent-Györgyi,1893,1986,Austria-Hungary (now Hungary),HU,male,1937,medicine,"""for his discoveries in connection with the biological combustion processes, with special reference to vitamin C and the catalysis of fumaric acid""",HUN,47.0,19.0,Hungary
+333,Corneille,Heymans,1892,1968,Belgium,BE,male,1938,medicine,"""for the discovery of the role played by the sinus and aortic mechanisms in the regulation of respiration""",BEL,50.64,4.67,Belgium
+334,Gerhard,Domagk,1895,1964,Germany (now Poland),PL,male,1939,medicine,"""for the discovery of the antibacterial effects of prontosil""",POL,52.0,19.0,Poland
+335,Henrik,Dam,1895,1976,Denmark,DK,male,1943,medicine,"""for his discovery of vitamin K""",DNK,56.0,10.0,Denmark
+336,Edward A.,Doisy,1893,1986,USA,US,male,1943,medicine,"""for his discovery of the chemical nature of vitamin K""",USA,39.83,-98.58,United States of America
+337,Joseph,Erlanger,1874,1965,USA,US,male,1944,medicine,"""for their discoveries relating to the highly differentiated functions of single nerve fibres""",USA,39.83,-98.58,United States of America
+338,Herbert S.,Gasser,1888,1963,USA,US,male,1944,medicine,"""for their discoveries relating to the highly differentiated functions of single nerve fibres""",USA,39.83,-98.58,United States of America
+339,Sir Alexander,Fleming,1881,1955,Scotland,GB,male,1945,medicine,"""for the discovery of penicillin and its curative effect in various infectious diseases""",GBR,54.6,-2.0,United Kingdom
+340,Ernst B.,Chain,1906,1979,Germany,DE,male,1945,medicine,"""for the discovery of penicillin and its curative effect in various infectious diseases""",DDR,52.05,12.39,German Democratic Republic
+341,Sir Howard,Florey,1898,1968,Australia,AU,male,1945,medicine,"""for the discovery of penicillin and its curative effect in various infectious diseases""",AUS,-28.0,137.0,Australia
+342,Hermann J.,Muller,1890,1967,USA,US,male,1946,medicine,"""for the discovery of the production of mutations by means of X-ray irradiation""",USA,39.83,-98.58,United States of America
+343,Carl,Cori,1896,1984,Austria-Hungary (now Czech Republic),CZ,male,1947,medicine,"""for their discovery of the course of the catalytic conversion of glycogen""",CZE,49.5,16.0,Czech Republic
+344,Gerty,Cori,1896,1957,Austria-Hungary (now Czech Republic),CZ,female,1947,medicine,"""for their discovery of the course of the catalytic conversion of glycogen""",CZE,49.5,16.0,Czech Republic
+345,Bernardo,Houssay,1887,1971,Argentina,AR,male,1947,medicine,"""for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar""",ARG,-34.0,-64.0,Argentina
+346,Paul,Müller,1899,1965,Switzerland,CH,male,1948,medicine,"""for his discovery of the high efficiency of DDT as a contact poison against several arthropods""",CHE,46.8,8.23,Switzerland
+347,Walter,Hess,1881,1973,Switzerland,CH,male,1949,medicine,"""for his discovery of the functional organization of the interbrain as a coordinator of the activities of the internal organs""",CHE,46.8,8.23,Switzerland
+348,Egas,Moniz,1874,1955,Portugal,PT,male,1949,medicine,"""for his discovery of the therapeutic value of leucotomy in certain psychoses""",PRT,38.7,-9.18,Portugal
+349,Edward C.,Kendall,1886,1972,USA,US,male,1950,medicine,"""for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects""",USA,39.83,-98.58,United States of America
+350,Tadeus,Reichstein,1897,1996,Poland,PL,male,1950,medicine,"""for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects""",POL,52.0,19.0,Poland
+351,Philip S.,Hench,1896,1965,USA,US,male,1950,medicine,"""for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects""",USA,39.83,-98.58,United States of America
+352,Max,Theiler,1899,1972,South Africa,ZA,male,1951,medicine,"""for his discoveries concerning yellow fever and how to combat it""",ZAF,-29.0,24.0,South Africa
+353,Selman A.,Waksman,1888,1973,Russian Empire (now Ukraine),UA,male,1952,medicine,"""for his discovery of streptomycin, the first antibiotic effective against tuberculosis""",UKR,49.0,32.0,Ukraine
+354,Hans,Krebs,1900,1981,Germany,DE,male,1953,medicine,"""for his discovery of the citric acid cycle""",DDR,52.05,12.39,German Democratic Republic
+355,Fritz,Lipmann,1899,1986,Germany (now Russia),RU,male,1953,medicine,"""for his discovery of co-enzyme A and its importance for intermediary metabolism""",RUS,66.42,94.25,Russia
+356,John F.,Enders,1897,1985,USA,US,male,1954,medicine,"""for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue""",USA,39.83,-98.58,United States of America
+357,Thomas H.,Weller,1915,2008,USA,US,male,1954,medicine,"""for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue""",USA,39.83,-98.58,United States of America
+358,Frederick C.,Robbins,1916,2003,USA,US,male,1954,medicine,"""for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue""",USA,39.83,-98.58,United States of America
+359,Hugo,Theorell,1903,1982,Sweden,SE,male,1955,medicine,"""for his discoveries concerning the nature and mode of action of oxidation enzymes""",SWE,61.0,15.0,Sweden
+360,André F.,Cournand,1895,1988,France,FR,male,1956,medicine,"""for their discoveries concerning heart catheterization and pathological changes in the circulatory system""",FRA,47.0,2.0,France
+361,Werner,Forssmann,1904,1979,Germany,DE,male,1956,medicine,"""for their discoveries concerning heart catheterization and pathological changes in the circulatory system""",DDR,52.05,12.39,German Democratic Republic
+362,Dickinson W.,Richards,1895,1973,USA,US,male,1956,medicine,"""for their discoveries concerning heart catheterization and pathological changes in the circulatory system""",USA,39.83,-98.58,United States of America
+363,Daniel,Bovet,1907,1992,Switzerland,CH,male,1957,medicine,"""for his discoveries relating to synthetic compounds that inhibit the action of certain body substances, and especially their action on the vascular system and the skeletal muscles""",CHE,46.8,8.23,Switzerland
+364,George,Beadle,1903,1989,USA,US,male,1958,medicine,"""for their discovery that genes act by regulating definite chemical events""",USA,39.83,-98.58,United States of America
+365,Edward,Tatum,1909,1975,USA,US,male,1958,medicine,"""for their discovery that genes act by regulating definite chemical events""",USA,39.83,-98.58,United States of America
+366,Joshua,Lederberg,1925,2008,USA,US,male,1958,medicine,"""for his discoveries concerning genetic recombination and the organization of the genetic material of bacteria""",USA,39.83,-98.58,United States of America
+367,Severo,Ochoa,1905,1993,Spain,ES,male,1959,medicine,"""for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid""",ESP,40.2,-3.5,Spain
+368,Arthur,Kornberg,1918,2007,USA,US,male,1959,medicine,"""for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid""",USA,39.83,-98.58,United States of America
+369,Sir Frank Macfarlane,Burnet,1899,1985,Australia,AU,male,1960,medicine,"""for discovery of acquired immunological tolerance""",AUS,-28.0,137.0,Australia
+370,Peter,Medawar,1915,1987,Brazil,BR,male,1960,medicine,"""for discovery of acquired immunological tolerance""",BRA,-14.0,-53.0,Brazil
+371,Georg,von Békésy,1899,1972,Hungary,HU,male,1961,medicine,"""for his discoveries of the physical mechanism of stimulation within the cochlea""",HUN,47.0,19.0,Hungary
+372,Francis,Crick,1916,2004,United Kingdom,GB,male,1962,medicine,"""for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material""",GBR,54.6,-2.0,United Kingdom
+373,James,Watson,1928,0,USA,US,male,1962,medicine,"""for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material""",USA,39.83,-98.58,United States of America
+374,Maurice,Wilkins,1916,2004,New Zealand,NZ,male,1962,medicine,"""for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material""",NZL,-41.2,174.0,New Zealand
+375,Sir John,Eccles,1903,1997,Australia,AU,male,1963,medicine,"""for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane""",AUS,-28.0,137.0,Australia
+376,Alan,Hodgkin,1914,1998,United Kingdom,GB,male,1963,medicine,"""for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane""",GBR,54.6,-2.0,United Kingdom
+377,Andrew,Huxley,1917,2012,United Kingdom,GB,male,1963,medicine,"""for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane""",GBR,54.6,-2.0,United Kingdom
+378,Konrad,Bloch,1912,2000,Germany (now Poland),PL,male,1964,medicine,"""for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism""",POL,52.0,19.0,Poland
+379,Feodor,Lynen,1911,1979,Germany,DE,male,1964,medicine,"""for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism""",DDR,52.05,12.39,German Democratic Republic
+380,François,Jacob,1920,2013,France,FR,male,1965,medicine,"""for their discoveries concerning genetic control of enzyme and virus synthesis""",FRA,47.0,2.0,France
+381,André,Lwoff,1902,1994,France,FR,male,1965,medicine,"""for their discoveries concerning genetic control of enzyme and virus synthesis""",FRA,47.0,2.0,France
+382,Jacques,Monod,1910,1976,France,FR,male,1965,medicine,"""for their discoveries concerning genetic control of enzyme and virus synthesis""",FRA,47.0,2.0,France
+383,Peyton,Rous,1879,1970,USA,US,male,1966,medicine,"""for his discovery of tumour-inducing viruses""",USA,39.83,-98.58,United States of America
+384,Charles B.,Huggins,1901,1997,Canada,CA,male,1966,medicine,"""for his discoveries concerning hormonal treatment of prostatic cancer""",CAN,56.0,-109.0,Canada
+385,Ragnar,Granit,1900,1991,Russian Empire (now Finland),FI,male,1967,medicine,"""for their discoveries concerning the primary physiological and chemical visual processes in the eye""",FIN,65.0,27.0,Finland
+386,Keffer,Hartline,1903,1983,USA,US,male,1967,medicine,"""for their discoveries concerning the primary physiological and chemical visual processes in the eye""",USA,39.83,-98.58,United States of America
+387,George,Wald,1906,1997,USA,US,male,1967,medicine,"""for their discoveries concerning the primary physiological and chemical visual processes in the eye""",USA,39.83,-98.58,United States of America
+388,Robert W.,Holley,1922,1993,USA,US,male,1968,medicine,"""for their interpretation of the genetic code and its function in protein synthesis""",USA,39.83,-98.58,United States of America
+389,H. Gobind,Khorana,1922,2011,India,IN,male,1968,medicine,"""for their interpretation of the genetic code and its function in protein synthesis""",IND,22.8,83.0,India
+390,Marshall W.,Nirenberg,1927,2010,USA,US,male,1968,medicine,"""for their interpretation of the genetic code and its function in protein synthesis""",USA,39.83,-98.58,United States of America
+391,Max,Delbrück,1906,1981,Germany,DE,male,1969,medicine,"""for their discoveries concerning the replication mechanism and the genetic structure of viruses""",DDR,52.05,12.39,German Democratic Republic
+392,Alfred D.,Hershey,1908,1997,USA,US,male,1969,medicine,"""for their discoveries concerning the replication mechanism and the genetic structure of viruses""",USA,39.83,-98.58,United States of America
+393,Salvador E.,Luria,1912,1991,Italy,IT,male,1969,medicine,"""for their discoveries concerning the replication mechanism and the genetic structure of viruses""",ITA,42.5,12.5,Italy
+394,Sir Bernard,Katz,1911,2003,Germany,DE,male,1970,medicine,"""for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation""",DDR,52.05,12.39,German Democratic Republic
+395,Ulf,von Euler,1905,1983,Sweden,SE,male,1970,medicine,"""for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation""",SWE,61.0,15.0,Sweden
+396,Julius,Axelrod,1912,2004,USA,US,male,1970,medicine,"""for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation""",USA,39.83,-98.58,United States of America
+397,Earl W.,"Sutherland, Jr.",1915,1974,USA,US,male,1971,medicine,"""for his discoveries concerning the mechanisms of the action of hormones""",USA,39.83,-98.58,United States of America
+398,Gerald M.,Edelman,1929,2014,USA,US,male,1972,medicine,"""for their discoveries concerning the chemical structure of antibodies""",USA,39.83,-98.58,United States of America
+399,Rodney R.,Porter,1917,1985,United Kingdom,GB,male,1972,medicine,"""for their discoveries concerning the chemical structure of antibodies""",GBR,54.6,-2.0,United Kingdom
+400,Karl,von Frisch,1886,1982,Austria,AT,male,1973,medicine,"""for their discoveries concerning organization and elicitation of individual and social behaviour patterns""",AUT,48.0,14.0,Austria
+401,Konrad,Lorenz,1903,1989,Austria,AT,male,1973,medicine,"""for their discoveries concerning organization and elicitation of individual and social behaviour patterns""",AUT,48.0,14.0,Austria
+402,Nikolaas,Tinbergen,1907,1988,the Netherlands,NL,male,1973,medicine,"""for their discoveries concerning organization and elicitation of individual and social behaviour patterns""",NLD,52.32,5.55,Netherlands
+403,Albert,Claude,1898,1983,Belgium,BE,male,1974,medicine,"""for their discoveries concerning the structural and functional organization of the cell""",BEL,50.64,4.67,Belgium
+404,Christian,de Duve,1917,2013,United Kingdom,GB,male,1974,medicine,"""for their discoveries concerning the structural and functional organization of the cell""",GBR,54.6,-2.0,United Kingdom
+405,George E.,Palade,1912,2008,Romania,RO,male,1974,medicine,"""for their discoveries concerning the structural and functional organization of the cell""",ROU,46.0,25.0,Romania
+406,David,Baltimore,1938,0,USA,US,male,1975,medicine,"""for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell""",USA,39.83,-98.58,United States of America
+407,Renato,Dulbecco,1914,2012,Italy,IT,male,1975,medicine,"""for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell""",ITA,42.5,12.5,Italy
+408,Howard M.,Temin,1934,1994,USA,US,male,1975,medicine,"""for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell""",USA,39.83,-98.58,United States of America
+409,Baruch S.,Blumberg,1925,2011,USA,US,male,1976,medicine,"""for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases""",USA,39.83,-98.58,United States of America
+410,D. Carleton,Gajdusek,1923,2008,USA,US,male,1976,medicine,"""for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases""",USA,39.83,-98.58,United States of America
+411,Roger,Guillemin,1924,2024,France,FR,male,1977,medicine,"""for their discoveries concerning the peptide hormone production of the brain""",FRA,47.0,2.0,France
+412,Andrew V.,Schally,1926,0,Poland (now Lithuania),LT,male,1977,medicine,"""for their discoveries concerning the peptide hormone production of the brain""",LTU,55.2,24.0,Lithuania
+413,Rosalyn,Yalow,1921,2011,USA,US,female,1977,medicine,"""for the development of radioimmunoassays of peptide hormones""",USA,39.83,-98.58,United States of America
+414,Werner,Arber,1929,0,Switzerland,CH,male,1978,medicine,"""for the discovery of restriction enzymes and their application to problems of molecular genetics""",CHE,46.8,8.23,Switzerland
+415,Daniel,Nathans,1928,1999,USA,US,male,1978,medicine,"""for the discovery of restriction enzymes and their application to problems of molecular genetics""",USA,39.83,-98.58,United States of America
+416,Hamilton O.,Smith,1931,0,USA,US,male,1978,medicine,"""for the discovery of restriction enzymes and their application to problems of molecular genetics""",USA,39.83,-98.58,United States of America
+417,Allan M.,Cormack,1924,1998,South Africa,ZA,male,1979,medicine,"""for the development of computer assisted tomography""",ZAF,-29.0,24.0,South Africa
+418,Godfrey N.,Hounsfield,1919,2004,United Kingdom,GB,male,1979,medicine,"""for the development of computer assisted tomography""",GBR,54.6,-2.0,United Kingdom
+419,Baruj,Benacerraf,1920,2011,Venezuela,VE,male,1980,medicine,"""for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions""",VEN,8.0,-67.0,Venezuela
+420,Jean,Dausset,1916,2009,France,FR,male,1980,medicine,"""for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions""",FRA,47.0,2.0,France
+421,George D.,Snell,1903,1996,USA,US,male,1980,medicine,"""for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions""",USA,39.83,-98.58,United States of America
+422,Roger W.,Sperry,1913,1994,USA,US,male,1981,medicine,"""for his discoveries concerning the functional specialization of the cerebral hemispheres""",USA,39.83,-98.58,United States of America
+423,David H.,Hubel,1926,2013,Canada,CA,male,1981,medicine,"""for their discoveries concerning information processing in the visual system""",CAN,56.0,-109.0,Canada
+424,Torsten N.,Wiesel,1924,0,Sweden,SE,male,1981,medicine,"""for their discoveries concerning information processing in the visual system""",SWE,61.0,15.0,Sweden
+425,Sune K.,Bergström,1916,2004,Sweden,SE,male,1982,medicine,"""for their discoveries concerning prostaglandins and related biologically active substances""",SWE,61.0,15.0,Sweden
+426,Bengt I.,Samuelsson,1934,2024,Sweden,SE,male,1982,medicine,"""for their discoveries concerning prostaglandins and related biologically active substances""",SWE,61.0,15.0,Sweden
+427,John R.,Vane,1927,2004,United Kingdom,GB,male,1982,medicine,"""for their discoveries concerning prostaglandins and related biologically active substances""",GBR,54.6,-2.0,United Kingdom
+428,Barbara,McClintock,1902,1992,USA,US,female,1983,medicine,"""for her discovery of mobile genetic elements""",USA,39.83,-98.58,United States of America
+429,Niels K.,Jerne,1911,1994,United Kingdom,GB,male,1984,medicine,"""for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies""",GBR,54.6,-2.0,United Kingdom
+430,Georges J.F.,Köhler,1946,1995,Germany,DE,male,1984,medicine,"""for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies""",DDR,52.05,12.39,German Democratic Republic
+431,César,Milstein,1927,2002,Argentina,AR,male,1984,medicine,"""for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies""",ARG,-34.0,-64.0,Argentina
+432,Michael S.,Brown,1941,0,USA,US,male,1985,medicine,"""for their discoveries concerning the regulation of cholesterol metabolism""",USA,39.83,-98.58,United States of America
+433,Joseph L.,Goldstein,1940,0,USA,US,male,1985,medicine,"""for their discoveries concerning the regulation of cholesterol metabolism""",USA,39.83,-98.58,United States of America
+434,Stanley,Cohen,1922,2020,USA,US,male,1986,medicine,"""for their discoveries of growth factors""",USA,39.83,-98.58,United States of America
+435,Rita,Levi-Montalcini,1909,2012,Italy,IT,female,1986,medicine,"""for their discoveries of growth factors""",ITA,42.5,12.5,Italy
+436,Susumu,Tonegawa,1939,0,Japan,JP,male,1987,medicine,"""for his discovery of the genetic principle for generation of antibody diversity""",JPN,35.0,136.0,Japan
+437,Sir James W.,Black,1924,2010,Scotland,GB,male,1988,medicine,"""for their discoveries of important principles for drug treatment""",GBR,54.6,-2.0,United Kingdom
+438,Gertrude B.,Elion,1918,1999,USA,US,female,1988,medicine,"""for their discoveries of important principles for drug treatment""",USA,39.83,-98.58,United States of America
+439,George H.,Hitchings,1905,1998,USA,US,male,1988,medicine,"""for their discoveries of important principles for drug treatment""",USA,39.83,-98.58,United States of America
+440,J. Michael,Bishop,1936,0,USA,US,male,1989,medicine,"""for their discovery of the cellular origin of retroviral oncogenes""",USA,39.83,-98.58,United States of America
+441,Harold E.,Varmus,1939,0,USA,US,male,1989,medicine,"""for their discovery of the cellular origin of retroviral oncogenes""",USA,39.83,-98.58,United States of America
+442,Joseph E.,Murray,1919,2012,USA,US,male,1990,medicine,"""for their discoveries concerning organ and cell transplantation in the treatment of human disease""",USA,39.83,-98.58,United States of America
+443,E. Donnall,Thomas,1920,2012,USA,US,male,1990,medicine,"""for their discoveries concerning organ and cell transplantation in the treatment of human disease""",USA,39.83,-98.58,United States of America
+444,Erwin,Neher,1944,0,Germany,DE,male,1991,medicine,"""for their discoveries concerning the function of single ion channels in cells""",DDR,52.05,12.39,German Democratic Republic
+445,Bert,Sakmann,1942,0,Germany,DE,male,1991,medicine,"""for their discoveries concerning the function of single ion channels in cells""",DDR,52.05,12.39,German Democratic Republic
+446,Edmond H.,Fischer,1920,2021,China,CN,male,1992,medicine,"""for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism""",CHN,35.84,103.45,People's Republic of China
+447,Edwin G.,Krebs,1918,2009,USA,US,male,1992,medicine,"""for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism""",USA,39.83,-98.58,United States of America
+448,Richard J.,Roberts,1943,0,United Kingdom,GB,male,1993,medicine,"""for their discoveries of split genes""",GBR,54.6,-2.0,United Kingdom
+449,Phillip A.,Sharp,1944,0,USA,US,male,1993,medicine,"""for their discoveries of split genes""",USA,39.83,-98.58,United States of America
+450,Alfred G.,Gilman,1941,2015,USA,US,male,1994,medicine,"""for their discovery of G-proteins and the role of these proteins in signal transduction in cells""",USA,39.83,-98.58,United States of America
+451,Martin,Rodbell,1925,1998,USA,US,male,1994,medicine,"""for their discovery of G-proteins and the role of these proteins in signal transduction in cells""",USA,39.83,-98.58,United States of America
+452,Edward B.,Lewis,1918,2004,USA,US,male,1995,medicine,"""for their discoveries concerning the genetic control of early embryonic development""",USA,39.83,-98.58,United States of America
+453,Christiane,Nüsslein-Volhard,1942,0,Germany,DE,female,1995,medicine,"""for their discoveries concerning the genetic control of early embryonic development""",DDR,52.05,12.39,German Democratic Republic
+454,Eric F.,Wieschaus,1947,0,USA,US,male,1995,medicine,"""for their discoveries concerning the genetic control of early embryonic development""",USA,39.83,-98.58,United States of America
+455,Peter C.,Doherty,1940,0,Australia,AU,male,1996,medicine,"""for their discoveries concerning the specificity of the cell mediated immune defence""",AUS,-28.0,137.0,Australia
+456,Rolf M.,Zinkernagel,1944,0,Switzerland,CH,male,1996,medicine,"""for their discoveries concerning the specificity of the cell mediated immune defence""",CHE,46.8,8.23,Switzerland
+457,Stanley B.,Prusiner,1942,0,USA,US,male,1997,medicine,"""for his discovery of Prions - a new biological principle of infection""",USA,39.83,-98.58,United States of America
+458,Robert F.,Furchgott,1916,2009,USA,US,male,1998,medicine,"""for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system""",USA,39.83,-98.58,United States of America
+459,Louis J.,Ignarro,1941,0,USA,US,male,1998,medicine,"""for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system""",USA,39.83,-98.58,United States of America
+460,Ferid,Murad,1936,2023,USA,US,male,1998,medicine,"""for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system""",USA,39.83,-98.58,United States of America
+461,Günter,Blobel,1936,2018,Germany (now Poland),PL,male,1999,medicine,"""for the discovery that proteins have intrinsic signals that govern their transport and localization in the cell""",POL,52.0,19.0,Poland
+462,Henry,Dunant,1828,1910,Switzerland,CH,male,1901,peace,"""for his humanitarian efforts to help wounded soldiers and create international understanding""",CHE,46.8,8.23,Switzerland
+463,Frédéric,Passy,1822,1912,France,FR,male,1901,peace,"""for his lifelong work for international peace conferences, diplomacy and arbitration""",FRA,47.0,2.0,France
+464,Élie,Ducommun,1833,1906,Switzerland,CH,male,1902,peace,"""for his untiring and skilful directorship of the Bern Peace Bureau""",CHE,46.8,8.23,Switzerland
+465,Albert,Gobat,1843,1914,Switzerland,CH,male,1902,peace,"""for his eminently practical administration of the Inter-Parliamentary Union""",CHE,46.8,8.23,Switzerland
+466,Randal,Cremer,1828,1908,United Kingdom,GB,male,1903,peace,"""for his longstanding and devoted effort in favour of the ideas of peace and arbitration""",GBR,54.6,-2.0,United Kingdom
+468,Bertha,von Suttner,1843,1914,Austrian Empire (now Czech Republic),CZ,female,1905,peace,"""for her audacity to oppose the horrors of war""",CZE,49.5,16.0,Czech Republic
+470,Theodore,Roosevelt,1858,1919,USA,US,male,1906,peace,"""for his role in bringing to an end the bloody war recently waged between two of the world's great powers, Japan and Russia""",USA,39.83,-98.58,United States of America
+471,Ernesto Teodoro,Moneta,1833,1918,Austrian Empire (now Italy),IT,male,1907,peace,"""for his work in the press and in peace meetings, both public and private, for an understanding between France and Italy""",ITA,42.5,12.5,Italy
+472,Louis,Renault,1843,1918,France,FR,male,1907,peace,"""for his decisive influence upon the conduct and outcome of the Hague and Geneva Conferences""",FRA,47.0,2.0,France
+473,Klas Pontus,Arnoldson,1844,1916,Sweden,SE,male,1908,peace,"""for their long time work for the cause of peace as politicians, peace society leaders, orators and authors""",SWE,61.0,15.0,Sweden
+474,Fredrik,Bajer,1837,1922,Denmark,DK,male,1908,peace,"""for their long time work for the cause of peace as politicians, peace society leaders, orators and authors""",DNK,56.0,10.0,Denmark
+475,Auguste,Beernaert,1829,1912,Belgium,BE,male,1909,peace,"""for their prominent position in the international movement for peace and arbitration""",BEL,50.64,4.67,Belgium
+476,Paul Henri,d'Estournelles de Constant,1852,1924,France,FR,male,1909,peace,"""for their prominent position in the international movement for peace and arbitration""",FRA,47.0,2.0,France
+478,Tobias,Asser,1838,1913,the Netherlands,NL,male,1911,peace,"""for his role as co-founder of the Institut de droit international, initiator of the Conferences on International Private Law (Conférences de Droit international privé) at the Hague, and pioneer in the field of international legal relations""",NLD,52.32,5.55,Netherlands
+479,Alfred,Fried,1864,1921,Austria,AT,male,1911,peace,"""for his effort to expose and fight what he considers to be the main cause of war, namely, the anarchy in international relations""",AUT,48.0,14.0,Austria
+480,Elihu,Root,1845,1937,USA,US,male,1912,peace,"""for bringing about better understanding between the countries of North and South America and initiating important arbitration agreements between the United States and other countries""",USA,39.83,-98.58,United States of America
+481,Henri,La Fontaine,1854,1943,Belgium,BE,male,1913,peace,"""for his unparalleled contribution to the organization of peaceful internationalism""",BEL,50.64,4.67,Belgium
+483,Woodrow,Wilson,1856,1924,USA,US,male,1919,peace,"""for his role as founder of the League of Nations""",USA,39.83,-98.58,United States of America
+484,Léon,Bourgeois,1851,1925,France,FR,male,1920,peace,"""for his longstanding contribution to the cause of peace and justice and his prominent role in the establishment of the League of Nations""",FRA,47.0,2.0,France
+485,Hjalmar,Branting,1860,1925,Sweden,SE,male,1921,peace,"""for their lifelong contributions to the cause of peace and organized internationalism""",SWE,61.0,15.0,Sweden
+486,Christian,Lange,1869,1938,Norway,NO,male,1921,peace,"""for their lifelong contributions to the cause of peace and organized internationalism""",NOR,65.0,11.0,Norway
+487,Fridtjof,Nansen,1861,1930,Norway,NO,male,1922,peace,"""for his leading role in the repatriation of prisoners of war, in international relief work and as the League of Nations' High Commissioner for refugees""",NOR,65.0,11.0,Norway
+488,Sir Austen,Chamberlain,1863,1937,United Kingdom,GB,male,1925,peace,"""for his crucial role in bringing about the Locarno Treaty""",GBR,54.6,-2.0,United Kingdom
+489,Charles G.,Dawes,1865,1951,USA,US,male,1925,peace,"""for his crucial role in bringing about the Dawes Plan""",USA,39.83,-98.58,United States of America
+490,Aristide,Briand,1862,1932,France,FR,male,1926,peace,"""for their crucial role in bringing about the Locarno Treaty""",FRA,47.0,2.0,France
+491,Gustav,Stresemann,1878,1929,Germany,DE,male,1926,peace,"""for their crucial role in bringing about the Locarno Treaty""",DDR,52.05,12.39,German Democratic Republic
+492,Ferdinand,Buisson,1841,1932,France,FR,male,1927,peace,"""for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation""",FRA,47.0,2.0,France
+493,Ludwig,Quidde,1858,1941,Germany,DE,male,1927,peace,"""for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation""",DDR,52.05,12.39,German Democratic Republic
+494,Frank B.,Kellogg,1856,1937,USA,US,male,1929,peace,"""for his crucial role in bringing about the Briand-Kellogg Pact""",USA,39.83,-98.58,United States of America
+495,Nathan,Söderblom,1866,1931,Sweden,SE,male,1930,peace,"""for promoting Christian unity and helping create 'that new attitude of mind which is necessary if peace between nations is to become reality'""",SWE,61.0,15.0,Sweden
+496,Jane,Addams,1860,1935,USA,US,female,1931,peace,"""for their assiduous effort to revive the ideal of peace and to rekindle the spirit of peace in their own nation and in the whole of mankind""",USA,39.83,-98.58,United States of America
+497,Nicholas Murray,Butler,1862,1947,USA,US,male,1931,peace,"""for their assiduous effort to revive the ideal of peace and to rekindle the spirit of peace in their own nation and in the whole of mankind""",USA,39.83,-98.58,United States of America
+498,Sir Norman,Angell,1872,1967,United Kingdom,GB,male,1933,peace,"""for having exposed by his pen the illusion of war and presented a convincing plea for international cooperation and peace""",GBR,54.6,-2.0,United Kingdom
+499,Arthur,Henderson,1863,1935,Scotland,GB,male,1934,peace,"""for his untiring struggle and his courageous efforts as Chairman of the League of Nations Disarmament Conference 1931-34""",GBR,54.6,-2.0,United Kingdom
+500,Carl,von Ossietzky,1889,1938,Germany,DE,male,1935,peace,"""for his burning love for freedom of thought and expression and his valuable contribution to the cause of peace""",DDR,52.05,12.39,German Democratic Republic
+501,Carlos,Saavedra Lamas,1878,1959,Argentina,AR,male,1936,peace,"""for his role as father of the Argentine Antiwar Pact of 1933, which he also used as a means to mediate peace between Paraguay and Bolivia in 1935""",ARG,-34.0,-64.0,Argentina
+502,Robert,Cecil,1864,1958,United Kingdom,GB,male,1937,peace,"""for his tireless effort in support of the League of Nations, disarmament and peace""",GBR,54.6,-2.0,United Kingdom
+505,Cordell,Hull,1871,1955,USA,US,male,1945,peace,"""for his indefatigable work for international understanding and his pivotal role in establishing the United Nations""",USA,39.83,-98.58,United States of America
+506,Emily Greene,Balch,1867,1961,USA,US,female,1946,peace,"""for her lifelong work for the cause of peace""",USA,39.83,-98.58,United States of America
+507,John R.,Mott,1865,1955,USA,US,male,1946,peace,"""for his contribution to the creation of a peace-promoting religious brotherhood across national boundaries""",USA,39.83,-98.58,United States of America
+510,John,Boyd Orr,1880,1971,Scotland,GB,male,1949,peace,"""for his lifelong effort to conquer hunger and want, thereby helping to remove a major cause of military conflict and war""",GBR,54.6,-2.0,United Kingdom
+511,Ralph,Bunche,1904,1971,USA,US,male,1950,peace,"""for his work as mediator in Palestine in 1948-1949""",USA,39.83,-98.58,United States of America
+512,Léon,Jouhaux,1879,1954,France,FR,male,1951,peace,"""for having devoted his life to the fight against war through the promotion of social justice and brotherhood among men and nations""",FRA,47.0,2.0,France
+513,Albert,Schweitzer,1875,1965,Germany (now France),FR,male,1952,peace,"""for his altruism, reverence for life, and tireless humanitarian work which has helped making the idea of brotherhood between men and nations a living one""",FRA,47.0,2.0,France
+514,George C.,Marshall,1880,1959,USA,US,male,1953,peace,"""for proposing and supervising the plan for the economic recovery of Europe""",USA,39.83,-98.58,United States of America
+516,Lester Bowles,Pearson,1897,1972,Canada,CA,male,1957,peace,"""for his crucial contribution to the deployment of a United Nations Emergency Force in the wake of the Suez Crisis""",CAN,56.0,-109.0,Canada
+517,Georges,Pire,1910,1969,Belgium,BE,male,1958,peace,"""for his efforts to help refugees to leave their camps and return to a life of freedom and dignity""",BEL,50.64,4.67,Belgium
+518,Philip,Noel-Baker,1889,1982,United Kingdom,GB,male,1959,peace,"""for his longstanding contribution to the cause of disarmament and peace""",GBR,54.6,-2.0,United Kingdom
+519,Albert,Lutuli,1898,1967,Southern Rhodesia (now Zimbabwe),ZW,male,1960,peace,"""for his non-violent struggle against apartheid""",ZWE,-19.0,30.0,Zimbabwe
+520,Dag,Hammarskjöld,1905,1961,Sweden,SE,male,1961,peace,"""for developing the UN into an effective and constructive international organization, capable of giving life to the principles and aims expressed in the UN Charter""",SWE,61.0,15.0,Sweden
+524,Martin Luther,King Jr.,1929,1968,USA,US,male,1964,peace,"""for his non-violent struggle for civil rights for the Afro-American population""",USA,39.83,-98.58,United States of America
+526,René,Cassin,1887,1976,France,FR,male,1968,peace,"""for his struggle to ensure the rights of man as stipulated in the UN Declaration""",FRA,47.0,2.0,France
+528,Norman,Borlaug,1914,2009,USA,US,male,1970,peace,"""for having given a well-founded hope - the green revolution""",USA,39.83,-98.58,United States of America
+529,Willy,Brandt,1913,1992,Germany,DE,male,1971,peace,"""for paving the way for a meaningful dialogue between East and West""",DDR,52.05,12.39,German Democratic Republic
+530,Henry,Kissinger,1923,2023,Germany,DE,male,1973,peace,"""for jointly having negotiated a cease fire in Vietnam in 1973""",DDR,52.05,12.39,German Democratic Republic
+532,Seán,MacBride,1904,1988,France,FR,male,1974,peace,"""for his efforts to secure and develop human rights throughout the world""",FRA,47.0,2.0,France
+533,Eisaku,Satō,1901,1975,Japan,JP,male,1974,peace,"""for his contribution to stabilize conditions in the Pacific rim area and for signing the Nuclear Non-Proliferation Treaty""",JPN,35.0,136.0,Japan
+534,Andrei,Sakharov,1921,1989,Russia,RU,male,1975,peace,"""for his struggle for human rights in the Soviet Union, for disarmament and cooperation between all nations""",RUS,66.42,94.25,Russia
+535,Betty,Williams,1943,2020,Northern Ireland,GB,female,1976,peace,"""for the courageous efforts in founding a movement to put an end to the violent conflict in Northern Ireland""",GBR,54.6,-2.0,United Kingdom
+536,Mairead,Corrigan,1944,0,Northern Ireland,GB,female,1976,peace,"""for the courageous efforts in founding a movement to put an end to the violent conflict in Northern Ireland""",GBR,54.6,-2.0,United Kingdom
+538,Anwar,al-Sadat,1918,1981,Egypt,EG,male,1978,peace,"""for jointly having negotiated peace between Egypt and Israel in 1978""",EGY,27.0,29.0,Egypt
+539,Menachem,Begin,1913,1992,Russian Empire (now Belarus),BY,male,1978,peace,"""for jointly having negotiated peace between Egypt and Israel in 1978""",BLR,53.53,28.05,Belarus
+540,Anjezë Gonxhe,Bojaxhiu,1910,1997,Ottoman Empire (now North Macedonia),MK,female,1979,peace,"""for her work for bringing help to suffering humanity""",MKD,41.65,21.72,North Macedonia
+541,Adolfo,Pérez Esquivel,1931,0,Argentina,AR,male,1980,peace,"""for being a source of inspiration to repressed people, especially in Latin America""",ARG,-34.0,-64.0,Argentina
+543,Alva,Myrdal,1902,1986,Sweden,SE,female,1982,peace,"""for their work for disarmament and nuclear and weapon-free zones""",SWE,61.0,15.0,Sweden
+544,Alfonso,García Robles,1911,1991,Mexico,MX,male,1982,peace,"""for their work for disarmament and nuclear and weapon-free zones""",MEX,23.0,-102.0,Mexico
+545,Lech,Wałęsa,1943,0,Poland,PL,male,1983,peace,"""for non-violent struggle for free trade unions and human rights in Poland""",POL,52.0,19.0,Poland
+546,Desmond,Tutu,1931,2021,South Africa,ZA,male,1984,peace,"""for his role as a unifying leader figure in the non-violent campaign to resolve the problem of apartheid in South Africa""",ZAF,-29.0,24.0,South Africa
+548,Elie,Wiesel,1928,2016,Romania,RO,male,1986,peace,"""for being a messenger to mankind: his message is one of peace, atonement and dignity""",ROU,46.0,25.0,Romania
+549,Oscar,Arias Sánchez,1940,0,Costa Rica,CR,male,1987,peace,"""for his work for lasting peace in Central America""",CRI,10.0,-84.0,Costa Rica
+551,Lhamo,Thondup,1935,0,Tibet (now China),CN,male,1989,peace,"""for advocating peaceful solutions based upon tolerance and mutual respect in order to preserve the historical and cultural heritage of his people""",CHN,35.84,103.45,People's Republic of China
+552,Mikhail,Gorbachev,1931,2022,USSR (now Russia),RU,male,1990,peace,"""for the leading role he played in the radical changes in East-West relations""",RUS,66.42,94.25,Russia
+554,Rigoberta,Menchú Tum,1959,0,Guatemala,GT,female,1992,peace,"""for her struggle for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples""",GTM,15.5,-90.25,Guatemala
+555,Nelson,Mandela,1918,2013,South Africa,ZA,male,1993,peace,"""for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa""",ZAF,-29.0,24.0,South Africa
+556,F.W.,de Klerk,1936,2021,South Africa,ZA,male,1993,peace,"""for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa""",ZAF,-29.0,24.0,South Africa
+557,Yasser,Arafat,1929,2004,Egypt,EG,male,1994,peace,"""for their efforts to create peace in the Middle East""",EGY,27.0,29.0,Egypt
+558,Shimon,Peres,1923,2016,Poland (now Belarus),BY,male,1994,peace,"""for their efforts to create peace in the Middle East""",BLR,53.53,28.05,Belarus
+559,Yitzhak,Rabin,1922,1995,British Mandate of Palestine (now Israel),IL,male,1994,peace,"""for their efforts to create peace in the Middle East""",ISR,31.0,35.0,Israel
+560,Joseph,Rotblat,1908,2005,Russian Empire (now Poland),PL,male,1995,peace,"""for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms""",POL,52.0,19.0,Poland
+562,Carlos Filipe Ximenes,Belo,1948,0,East Timor,TL,male,1996,peace,"""for their work towards a just and peaceful solution to the conflict in East Timor""",TLS,-8.97,125.75,East Timor
+563,José,Ramos-Horta,1949,0,East Timor,TL,male,1996,peace,"""for their work towards a just and peaceful solution to the conflict in East Timor""",TLS,-8.97,125.75,East Timor
+565,Jody,Williams,1950,0,USA,US,female,1997,peace,"""for their work for the banning and clearing of anti-personnel mines""",USA,39.83,-98.58,United States of America
+566,John,Hume,1937,2020,Northern Ireland,GB,male,1998,peace,"""for their efforts to find a peaceful solution to the conflict in Northern Ireland""",GBR,54.6,-2.0,United Kingdom
+567,David,Trimble,1944,2022,Northern Ireland,GB,male,1998,peace,"""for their efforts to find a peaceful solution to the conflict in Northern Ireland""",GBR,54.6,-2.0,United Kingdom
+569,Sully,Prudhomme,1839,1907,France,FR,male,1901,literature,"""in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect""",FRA,47.0,2.0,France
+571,Theodor,Mommsen,1817,1903,Schleswig (now Germany),DE,male,1902,literature,"""the greatest living master of the art of historical writing, with special reference to his monumental work, <I>A history of Rome</I>""",DDR,52.05,12.39,German Democratic Republic
+572,Bjørnstjerne,Bjørnson,1832,1910,Norway,NO,male,1903,literature,"""as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit""",NOR,65.0,11.0,Norway
+573,Frédéric,Mistral,1830,1914,France,FR,male,1904,literature,"""in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Proven&ccedil;al philologist""",FRA,47.0,2.0,France
+574,José,Echegaray,1832,1916,Spain,ES,male,1904,literature,"""in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama""",ESP,40.2,-3.5,Spain
+575,Henryk,Sienkiewicz,1846,1916,Poland,PL,male,1905,literature,"""because of his outstanding merits as an epic writer""",POL,52.0,19.0,Poland
+576,Giosuè,Carducci,1835,1907,Tuscany (now Italy),IT,male,1906,literature,"""not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces""",ITA,42.5,12.5,Italy
+577,Rudyard,Kipling,1865,1936,British India (now India),IN,male,1907,literature,"""in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author""",IND,22.8,83.0,India
+578,Rudolf,Eucken,1846,1926,East Friesland (now Germany),DE,male,1908,literature,"""in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life""",DDR,52.05,12.39,German Democratic Republic
+579,Selma,Lagerlöf,1858,1940,Sweden,SE,female,1909,literature,"""in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings""",SWE,61.0,15.0,Sweden
+580,Paul,Heyse,1830,1914,Prussia (now Germany),DE,male,1910,literature,"""as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories""",DDR,52.05,12.39,German Democratic Republic
+581,Maurice,Maeterlinck,1862,1949,Belgium,BE,male,1911,literature,"""in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations""",BEL,50.64,4.67,Belgium
+582,Gerhart,Hauptmann,1862,1946,Prussia (now Poland),PL,male,1912,literature,"""primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art""",POL,52.0,19.0,Poland
+583,Rabindranath,Tagore,1861,1941,India,IN,male,1913,literature,"""because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West""",IND,22.8,83.0,India
+584,Romain,Rolland,1866,1944,France,FR,male,1915,literature,"""as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings""",FRA,47.0,2.0,France
+585,Verner,von Heidenstam,1859,1940,Sweden,SE,male,1916,literature,"""in recognition of his significance as the leading representative of a new era in our literature""",SWE,61.0,15.0,Sweden
+586,Karl,Gjellerup,1857,1919,Denmark,DK,male,1917,literature,"""for his varied and rich poetry, which is inspired by lofty ideals""",DNK,56.0,10.0,Denmark
+587,Henrik,Pontoppidan,1857,1943,Denmark,DK,male,1917,literature,"""for his authentic descriptions of present-day life in Denmark""",DNK,56.0,10.0,Denmark
+588,Carl,Spitteler,1845,1924,Switzerland,CH,male,1919,literature,"""in special appreciation of his epic, <I>Olympian Spring</I>""",CHE,46.8,8.23,Switzerland
+589,Knut,Hamsun,1859,1952,Norway,NO,male,1920,literature,"""for his monumental work, <I>Growth of the Soil</I>""",NOR,65.0,11.0,Norway
+590,Anatole,France,1844,1924,France,FR,male,1921,literature,"""in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament""",FRA,47.0,2.0,France
+592,Jacinto,Benavente,1866,1954,Spain,ES,male,1922,literature,"""for the happy manner in which he has continued the illustrious traditions of the Spanish drama""",ESP,40.2,-3.5,Spain
+593,William Butler,Yeats,1865,1939,Ireland,IE,male,1923,literature,"""for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation""",IRL,53.0,-8.0,Republic of Ireland
+594,Władysław,Reymont,1867,1925,Russian Empire (now Poland),PL,male,1924,literature,"""for his great national epic, <I>The Peasants</I>""",POL,52.0,19.0,Poland
+596,George Bernard,Shaw,1856,1950,Ireland,IE,male,1925,literature,"""for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty""",IRL,53.0,-8.0,Republic of Ireland
+597,Grazia,Deledda,1871,1936,Italy,IT,female,1926,literature,"""for her idealistically inspired writings which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general""",ITA,42.5,12.5,Italy
+600,Henri,Bergson,1859,1941,France,FR,male,1927,literature,"""in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented""",FRA,47.0,2.0,France
+601,Sigrid,Undset,1882,1949,Denmark,DK,female,1928,literature,"""principally for her powerful descriptions of Northern life during the Middle Ages""",DNK,56.0,10.0,Denmark
+602,Thomas,Mann,1875,1955,Germany,DE,male,1929,literature,"""principally for his great novel, <I>Buddenbrooks</I>, which has won steadily increased recognition as one of the classic works of contemporary literature""",DDR,52.05,12.39,German Democratic Republic
+603,Sinclair,Lewis,1885,1951,USA,US,male,1930,literature,"""for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters""",USA,39.83,-98.58,United States of America
+604,Erik Axel,Karlfeldt,1864,1931,Sweden,SE,male,1931,literature,"""The poetry of Erik Axel Karlfeldt""",SWE,61.0,15.0,Sweden
+605,John,Galsworthy,1867,1933,United Kingdom,GB,male,1932,literature,"""for his distinguished art of narration which takes its highest form in <I>The Forsyte Saga</I>""",GBR,54.6,-2.0,United Kingdom
+606,Ivan,Bunin,1870,1953,Russia,RU,male,1933,literature,"""for the strict artistry with which he has carried on the classical Russian traditions in prose writing""",RUS,66.42,94.25,Russia
+607,Luigi,Pirandello,1867,1936,Italy,IT,male,1934,literature,"""for his bold and ingenious revival of dramatic and scenic art""",ITA,42.5,12.5,Italy
+608,Eugene,O'Neill,1888,1953,USA,US,male,1936,literature,"""for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy""",USA,39.83,-98.58,United States of America
+609,Roger,Martin du Gard,1881,1958,France,FR,male,1937,literature,"""for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle <I>Les Thibault</I>""",FRA,47.0,2.0,France
+610,Pearl,Buck,1892,1973,USA,US,female,1938,literature,"""for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces""",USA,39.83,-98.58,United States of America
+613,Frans Eemil,Sillanpää,1888,1964,Russian Empire (now Finland),FI,male,1939,literature,"""for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature""",FIN,65.0,27.0,Finland
+614,Johannes V.,Jensen,1873,1950,Denmark,DK,male,1944,literature,"""for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style""",DNK,56.0,10.0,Denmark
+615,Gabriela,Mistral,1889,1957,Chile,CL,female,1945,literature,"""for her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world""",CHL,-33.0,-71.0,Chile
+617,Hermann,Hesse,1877,1962,Germany,DE,male,1946,literature,"""for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style""",DDR,52.05,12.39,German Democratic Republic
+618,André,Gide,1869,1951,France,FR,male,1947,literature,"""for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight""",FRA,47.0,2.0,France
+619,T.S.,Eliot,1888,1965,USA,US,male,1948,literature,"""for his outstanding, pioneer contribution to present-day poetry""",USA,39.83,-98.58,United States of America
+620,William,Faulkner,1897,1962,USA,US,male,1949,literature,"""for his powerful and artistically unique contribution to the modern American novel""",USA,39.83,-98.58,United States of America
+621,Bertrand,Russell,1872,1970,United Kingdom,GB,male,1950,literature,"""in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought""",GBR,54.6,-2.0,United Kingdom
+622,Pär,Lagerkvist,1891,1974,Sweden,SE,male,1951,literature,"""for the artistic vigour and true independence of mind with which he endeavours in his poetry to find answers to the eternal questions confronting mankind""",SWE,61.0,15.0,Sweden
+623,François,Mauriac,1885,1970,France,FR,male,1952,literature,"""for the deep spiritual insight and the artistic intensity with which he has in his novels penetrated the drama of human life""",FRA,47.0,2.0,France
+624,Winston,Churchill,1874,1965,United Kingdom,GB,male,1953,literature,"""for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values""",GBR,54.6,-2.0,United Kingdom
+625,Ernest,Hemingway,1899,1961,USA,US,male,1954,literature,"""for his mastery of the art of narrative, most recently demonstrated in <I>The Old Man and the Sea,</I> and for the influence that he has exerted on contemporary style""",USA,39.83,-98.58,United States of America
+626,Halldór,Laxness,1902,1998,Iceland,IS,male,1955,literature,"""for his vivid epic power which has renewed the great narrative art of Iceland""",ISL,65.0,-19.0,Iceland
+627,Juan Ramón,Jiménez,1881,1958,Spain,ES,male,1956,literature,"""for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity""",ESP,40.2,-3.5,Spain
+628,Albert,Camus,1913,1960,French Algeria (now Algeria),DZ,male,1957,literature,"""for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times""",DZA,28.0,1.0,Algeria
+629,Boris,Pasternak,1890,1960,Russia,RU,male,1958,literature,"""for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition""",RUS,66.42,94.25,Russia
+630,Salvatore,Quasimodo,1901,1968,Italy,IT,male,1959,literature,"""for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times""",ITA,42.5,12.5,Italy
+631,Saint-John,Perse,1887,1975,Guadeloupe Island,GP,male,1960,literature,"""for the soaring flight and the evocative imagery of his poetry which in a visionary fashion reflects the conditions of our time""",GLP,16.25,-61.58,Guadeloupe
+633,Ivo,Andrić,1892,1975,Bosnia (now Bosnia and Herzegovina),BA,male,1961,literature,"""for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country""",BIH,44.0,18.0,Bosnia and Herzegovina
+634,John,Steinbeck,1902,1968,USA,US,male,1962,literature,"""for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception""",USA,39.83,-98.58,United States of America
+635,Giorgos,Seferis,1900,1971,Ottoman Empire (now Turkey),TR,male,1963,literature,"""for his eminent lyrical writing, inspired by a deep feeling for the Hellenic world of culture""",TUR,39.0,36.0,Turkey
+637,Jean-Paul,Sartre,1905,1980,France,FR,male,1964,literature,"""for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age""",FRA,47.0,2.0,France
+638,Mikhail,Sholokhov,1905,1984,Russia,RU,male,1965,literature,"""for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people""",RUS,66.42,94.25,Russia
+639,Shmuel,Agnon,1888,1970,Austria-Hungary (now Ukraine),UA,male,1966,literature,"""for his profoundly characteristic narrative art with motifs from the life of the Jewish people""",UKR,49.0,32.0,Ukraine
+640,Nelly,Sachs,1891,1970,Germany,DE,female,1966,literature,"""for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength""",DDR,52.05,12.39,German Democratic Republic
+641,Miguel Angel,Asturias,1899,1974,Guatemala,GT,male,1967,literature,"""for his vivid literary achievement, deep-rooted in the national traits and traditions of Indian peoples of Latin America""",GTM,15.5,-90.25,Guatemala
+642,Yasunari,Kawabata,1899,1972,Japan,JP,male,1968,literature,"""for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind""",JPN,35.0,136.0,Japan
+643,Samuel,Beckett,1906,1989,Ireland,IE,male,1969,literature,"""for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation""",IRL,53.0,-8.0,Republic of Ireland
+644,Aleksandr,Solzhenitsyn,1918,2008,Russia,RU,male,1970,literature,"""for the ethical force with which he has pursued the indispensable traditions of Russian literature""",RUS,66.42,94.25,Russia
+645,Pablo,Neruda,1904,1973,Chile,CL,male,1971,literature,"""for a poetry that with the action of an elemental force brings alive a continent's destiny and dreams""",CHL,-33.0,-71.0,Chile
+647,Heinrich,Böll,1917,1985,Germany,DE,male,1972,literature,"""for his writing which through its combination of a broad perspective on his time and a sensitive skill in characterization has contributed to a renewal of German literature""",DDR,52.05,12.39,German Democratic Republic
+648,Patrick,White,1912,1990,United Kingdom,GB,male,1973,literature,"""for an epic and psychological narrative art which has introduced a new continent into literature""",GBR,54.6,-2.0,United Kingdom
+649,Eyvind,Johnson,1900,1976,Sweden,SE,male,1974,literature,"""for a narrative art, far-seeing in lands and ages, in the service of freedom""",SWE,61.0,15.0,Sweden
+650,Harry,Martinson,1904,1978,Sweden,SE,male,1974,literature,"""for writings that catch the dewdrop and reflect the cosmos""",SWE,61.0,15.0,Sweden
+651,Eugenio,Montale,1896,1981,Italy,IT,male,1975,literature,"""for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions""",ITA,42.5,12.5,Italy
+652,Saul,Bellow,1915,2005,Canada,CA,male,1976,literature,"""for the human understanding and subtle analysis of contemporary culture that are combined in his work""",CAN,56.0,-109.0,Canada
+653,Vicente,Aleixandre,1898,1984,Spain,ES,male,1977,literature,"""for a creative poetic writing which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars""",ESP,40.2,-3.5,Spain
+654,Isaac Bashevis,Singer,1904,1991,Russian Empire (now Poland),PL,male,1978,literature,"""for his impassioned narrative art which, with roots in a Polish-Jewish cultural tradition, brings universal human conditions to life""",POL,52.0,19.0,Poland
+655,Odysseus,Elytis,1911,1996,Crete (now Greece),GR,male,1979,literature,"""for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness""",GRC,38.5,23.0,Greece
+657,Czesław,Miłosz,1911,2004,Russian Empire (now Lithuania),LT,male,1980,literature,"""who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts""",LTU,55.2,24.0,Lithuania
+658,Elias,Canetti,1905,1994,Bulgaria,BG,male,1981,literature,"""for writings marked by a broad outlook, a wealth of ideas and artistic power""",BGR,42.75,25.5,Bulgaria
+659,Gabriel,García Márquez,1927,2014,Colombia,CO,male,1982,literature,"""for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts""",COL,4.0,-73.25,Colombia
+660,William,Golding,1911,1993,United Kingdom,GB,male,1983,literature,"""for his novels which, with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today""",GBR,54.6,-2.0,United Kingdom
+661,Jaroslav,Seifert,1901,1986,Austria-Hungary (now Czech Republic),CZ,male,1984,literature,"""for his poetry which endowed with freshness, sensuality and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man""",CZE,49.5,16.0,Czech Republic
+662,Claude,Simon,1913,2005,Madagascar,MG,male,1985,literature,"""who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition""",MDG,-20.0,47.0,Madagascar
+663,Wole,Soyinka,1934,0,Nigeria,NG,male,1986,literature,"""who in a wide cultural perspective and with poetic overtones fashions the drama of existence""",NGA,9.0,8.0,Nigeria
+664,Joseph,Brodsky,1940,1996,USSR (now Russia),RU,male,1987,literature,"""for an all-embracing authorship, imbued with clarity of thought and poetic intensity""",RUS,66.42,94.25,Russia
+665,Naguib,Mahfouz,1911,2006,Egypt,EG,male,1988,literature,"""who, through works rich in nuance - now clear-sightedly realistic, now evocatively ambiguous - has formed an Arabian narrative art that applies to all mankind""",EGY,27.0,29.0,Egypt
+666,Camilo José,Cela,1916,2002,Spain,ES,male,1989,literature,"""for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability""",ESP,40.2,-3.5,Spain
+667,Octavio,Paz,1914,1998,Mexico,MX,male,1990,literature,"""for impassioned writing with wide horizons, characterized by sensuous intelligence and humanistic integrity""",MEX,23.0,-102.0,Mexico
+668,Nadine,Gordimer,1923,2014,South Africa,ZA,female,1991,literature,"""who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity""",ZAF,-29.0,24.0,South Africa
+669,Derek,Walcott,1930,2017,Saint Lucia,LC,male,1992,literature,"""for a poetic oeuvre of great luminosity, sustained by a historical vision, the outcome of a multicultural commitment""",LCA,13.88,-60.97,Saint Lucia
+670,Toni,Morrison,1931,2019,USA,US,female,1993,literature,"""who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality""",USA,39.83,-98.58,United States of America
+671,Kenzaburo,Oe,1935,2023,Japan,JP,male,1994,literature,"""who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today""",JPN,35.0,136.0,Japan
+672,Seamus,Heaney,1939,2013,Northern Ireland,GB,male,1995,literature,"""for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past""",GBR,54.6,-2.0,United Kingdom
+673,Wisława,Szymborska,1923,2012,Poland,PL,female,1996,literature,"""for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality""",POL,52.0,19.0,Poland
+674,Dario,Fo,1926,2016,Italy,IT,male,1997,literature,"""who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden""",ITA,42.5,12.5,Italy
+675,José,Saramago,1922,2010,Portugal,PT,male,1998,literature,"""who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality""",PRT,38.7,-9.18,Portugal
+676,Günter,Grass,1927,2015,Free City of Danzig (now Poland),PL,male,1999,literature,"""whose frolicsome black fables portray the forgotten face of history""",POL,52.0,19.0,Poland
+677,Ragnar,Frisch,1895,1973,Norway,NO,male,1969,economics,"""for having developed and applied dynamic models for the analysis of economic processes""",NOR,65.0,11.0,Norway
+678,Jan,Tinbergen,1903,1994,the Netherlands,NL,male,1969,economics,"""for having developed and applied dynamic models for the analysis of economic processes""",NLD,52.32,5.55,Netherlands
+679,Paul A.,Samuelson,1915,2009,USA,US,male,1970,economics,"""for the scientific work through which he has developed static and dynamic economic theory and actively contributed to raising the level of analysis in economic science""",USA,39.83,-98.58,United States of America
+680,Simon,Kuznets,1901,1985,Russian Empire (now Belarus),BY,male,1971,economics,"""for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development""",BLR,53.53,28.05,Belarus
+681,John R.,Hicks,1904,1989,United Kingdom,GB,male,1972,economics,"""for their pioneering contributions to general economic equilibrium theory and welfare theory""",GBR,54.6,-2.0,United Kingdom
+682,Kenneth J.,Arrow,1921,2017,USA,US,male,1972,economics,"""for their pioneering contributions to general economic equilibrium theory and welfare theory""",USA,39.83,-98.58,United States of America
+683,Wassily,Leontief,1906,1999,Russia,RU,male,1973,economics,"""for the development of the input-output method and for its application to important economic problems""",RUS,66.42,94.25,Russia
+684,Gunnar,Myrdal,1898,1987,Sweden,SE,male,1974,economics,"""for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena""",SWE,61.0,15.0,Sweden
+685,Friedrich,von Hayek,1899,1992,Austria,AT,male,1974,economics,"""for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena""",AUT,48.0,14.0,Austria
+686,Leonid Vitaliyevich,Kantorovich,1912,1986,Russian Empire (now Russia),RU,male,1975,economics,"""for their contributions to the theory of optimum allocation of resources""",RUS,66.42,94.25,Russia
+687,Tjalling C.,Koopmans,1910,1985,the Netherlands,NL,male,1975,economics,"""for their contributions to the theory of optimum allocation of resources""",NLD,52.32,5.55,Netherlands
+688,Milton,Friedman,1912,2006,USA,US,male,1976,economics,"""for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy""",USA,39.83,-98.58,United States of America
+689,Bertil,Ohlin,1899,1979,Sweden,SE,male,1977,economics,"""for their pathbreaking contribution to the theory of international trade and international capital movements""",SWE,61.0,15.0,Sweden
+690,James E.,Meade,1907,1995,United Kingdom,GB,male,1977,economics,"""for their pathbreaking contribution to the theory of international trade and international capital movements""",GBR,54.6,-2.0,United Kingdom
+691,Herbert,Simon,1916,2001,USA,US,male,1978,economics,"""for his pioneering research into the decision-making process within economic organizations""",USA,39.83,-98.58,United States of America
+692,Theodore W.,Schultz,1902,1998,USA,US,male,1979,economics,"""for their pioneering research into economic development research with particular consideration of the problems of developing countries""",USA,39.83,-98.58,United States of America
+693,Sir Arthur,Lewis,1915,1991,British West Indies (now Saint Lucia),LC,male,1979,economics,"""for their pioneering research into economic development research with particular consideration of the problems of developing countries""",LCA,13.88,-60.97,Saint Lucia
+694,Lawrence R.,Klein,1920,2013,USA,US,male,1980,economics,"""for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies""",USA,39.83,-98.58,United States of America
+695,James,Tobin,1918,2002,USA,US,male,1981,economics,"""for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices""",USA,39.83,-98.58,United States of America
+696,George J.,Stigler,1911,1991,USA,US,male,1982,economics,"""for his seminal studies of industrial structures, functioning of markets and causes and effects of public regulation""",USA,39.83,-98.58,United States of America
+697,Gerard,Debreu,1921,2004,France,FR,male,1983,economics,"""for having incorporated new analytical methods into economic theory and for his rigorous reformulation of the theory of general equilibrium""",FRA,47.0,2.0,France
+698,Richard,Stone,1913,1991,United Kingdom,GB,male,1984,economics,"""for having made fundamental contributions to the development of systems of national accounts and hence greatly improved the basis for empirical economic analysis""",GBR,54.6,-2.0,United Kingdom
+699,Franco,Modigliani,1918,2003,Italy,IT,male,1985,economics,"""for his pioneering analyses of saving and of financial markets""",ITA,42.5,12.5,Italy
+700,James M.,Buchanan Jr.,1919,2013,USA,US,male,1986,economics,"""for his development of the contractual and constitutional bases for the theory of economic and political decision-making""",USA,39.83,-98.58,United States of America
+701,Robert M.,Solow,1924,2023,USA,US,male,1987,economics,"""for his contributions to the theory of economic growth""",USA,39.83,-98.58,United States of America
+702,Maurice,Allais,1911,2010,France,FR,male,1988,economics,"""for his pioneering contributions to the theory of markets and efficient utilization of resources""",FRA,47.0,2.0,France
+703,Trygve,Haavelmo,1911,1999,Norway,NO,male,1989,economics,"""for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures""",NOR,65.0,11.0,Norway
+704,Harry M.,Markowitz,1927,2023,USA,US,male,1990,economics,"""for their pioneering work in the theory of financial economics""",USA,39.83,-98.58,United States of America
+705,Merton H.,Miller,1923,2000,USA,US,male,1990,economics,"""for their pioneering work in the theory of financial economics""",USA,39.83,-98.58,United States of America
+706,William F.,Sharpe,1934,0,USA,US,male,1990,economics,"""for their pioneering work in the theory of financial economics""",USA,39.83,-98.58,United States of America
+707,Ronald H.,Coase,1910,2013,United Kingdom,GB,male,1991,economics,"""for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy""",GBR,54.6,-2.0,United Kingdom
+708,Gary,Becker,1930,2014,USA,US,male,1992,economics,"""for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour""",USA,39.83,-98.58,United States of America
+709,Robert W.,Fogel,1927,2013,USA,US,male,1993,economics,"""for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change""",USA,39.83,-98.58,United States of America
+710,Douglass C.,North,1920,2015,USA,US,male,1993,economics,"""for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change""",USA,39.83,-98.58,United States of America
+711,John C.,Harsanyi,1920,2000,Hungary,HU,male,1994,economics,"""for their pioneering analysis of equilibria in the theory of non-cooperative games""",HUN,47.0,19.0,Hungary
+712,John F.,Nash Jr.,1928,2015,USA,US,male,1994,economics,"""for their pioneering analysis of equilibria in the theory of non-cooperative games""",USA,39.83,-98.58,United States of America
+713,Reinhard,Selten,1930,2016,Germany (now Poland),PL,male,1994,economics,"""for their pioneering analysis of equilibria in the theory of non-cooperative games""",POL,52.0,19.0,Poland
+714,Robert E.,Lucas Jr.,1937,2023,USA,US,male,1995,economics,"""for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy""",USA,39.83,-98.58,United States of America
+715,James A.,Mirrlees,1936,2018,Scotland,GB,male,1996,economics,"""for their fundamental contributions to the economic theory of incentives under asymmetric information""",GBR,54.6,-2.0,United Kingdom
+716,William,Vickrey,1914,1996,Canada,CA,male,1996,economics,"""for their fundamental contributions to the economic theory of incentives under asymmetric information""",CAN,56.0,-109.0,Canada
+717,Robert C.,Merton,1944,0,USA,US,male,1997,economics,"""for a new method to determine the value of derivatives""",USA,39.83,-98.58,United States of America
+718,Myron,Scholes,1941,0,Canada,CA,male,1997,economics,"""for a new method to determine the value of derivatives""",CAN,56.0,-109.0,Canada
+719,Amartya,Sen,1933,0,India,IN,male,1998,economics,"""for his contributions to welfare economics""",IND,22.8,83.0,India
+720,Robert,Mundell,1932,2021,Canada,CA,male,1999,economics,"""for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas""",CAN,56.0,-109.0,Canada
+721,Il´ja M.,Frank,1908,1990,Russia,RU,male,1958,physics,"""for the discovery and the interpretation of the Cherenkov effect""",RUS,66.42,94.25,Russia
+722,Arvid,Carlsson,1923,2018,Sweden,SE,male,2000,medicine,"""for their discoveries concerning signal transduction in the nervous system""",SWE,61.0,15.0,Sweden
+723,Paul,Greengard,1925,2019,USA,US,male,2000,medicine,"""for their discoveries concerning signal transduction in the nervous system""",USA,39.83,-98.58,United States of America
+724,Eric,Kandel,1929,0,Austria,AT,male,2000,medicine,"""for their discoveries concerning signal transduction in the nervous system""",AUT,48.0,14.0,Austria
+725,Kim,Dae-jung,1925,2009,Korea (now South Korea),KR,male,2000,peace,"""for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular""",KOR,36.0,128.0,South Korea
+726,Zhores,Alferov,1930,2019,USSR (now Belarus),BY,male,2000,physics,"""for developing semiconductor heterostructures used in high-speed- and opto-electronics""",BLR,53.53,28.05,Belarus
+727,Herbert,Kroemer,1928,2024,Germany,DE,male,2000,physics,"""for developing semiconductor heterostructures used in high-speed- and opto-electronics""",DDR,52.05,12.39,German Democratic Republic
+728,Jack,Kilby,1923,2005,USA,US,male,2000,physics,"""for his part in the invention of the integrated circuit""",USA,39.83,-98.58,United States of America
+729,Alan,Heeger,1936,0,USA,US,male,2000,chemistry,"""for the discovery and development of conductive polymers""",USA,39.83,-98.58,United States of America
+730,Alan,MacDiarmid,1927,2007,New Zealand,NZ,male,2000,chemistry,"""for the discovery and development of conductive polymers""",NZL,-41.2,174.0,New Zealand
+731,Hideki,Shirakawa,1936,0,Japan,JP,male,2000,chemistry,"""for the discovery and development of conductive polymers""",JPN,35.0,136.0,Japan
+732,James J.,Heckman,1944,0,USA,US,male,2000,economics,"""for his development of theory and methods for analyzing selective samples""",USA,39.83,-98.58,United States of America
+733,Daniel L.,McFadden,1937,0,USA,US,male,2000,economics,"""for his development of theory and methods for analyzing discrete choice""",USA,39.83,-98.58,United States of America
+734,Xingjian,Gao,1940,0,China,CN,male,2000,literature,"""for an œuvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama""",CHN,35.84,103.45,People's Republic of China
+735,Leland,Hartwell,1939,0,USA,US,male,2001,medicine,"""for their discoveries of key regulators of the cell cycle""",USA,39.83,-98.58,United States of America
+736,Tim,Hunt,1943,0,United Kingdom,GB,male,2001,medicine,"""for their discoveries of key regulators of the cell cycle""",GBR,54.6,-2.0,United Kingdom
+737,Sir Paul,Nurse,1949,0,United Kingdom,GB,male,2001,medicine,"""for their discoveries of key regulators of the cell cycle""",GBR,54.6,-2.0,United Kingdom
+738,Eric,Cornell,1961,0,USA,US,male,2001,physics,"""for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates""",USA,39.83,-98.58,United States of America
+739,Wolfgang,Ketterle,1957,0,West Germany (now Germany),DE,male,2001,physics,"""for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates""",DDR,52.05,12.39,German Democratic Republic
+740,Carl,Wieman,1951,0,USA,US,male,2001,physics,"""for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates""",USA,39.83,-98.58,United States of America
+741,William,Knowles,1917,2012,USA,US,male,2001,chemistry,"""for their work on chirally catalysed hydrogenation reactions""",USA,39.83,-98.58,United States of America
+742,Ryoji,Noyori,1938,0,Japan,JP,male,2001,chemistry,"""for their work on chirally catalysed hydrogenation reactions""",JPN,35.0,136.0,Japan
+743,Barry,Sharpless,1941,0,USA,US,male,"2001, 2022","chemistry, chemistry","""for his work on chirally catalysed oxidation reactions"", ""for the development of click chemistry and bioorthogonal chemistry""",USA,39.83,-98.58,United States of America
+744,George A.,Akerlof,1940,0,USA,US,male,2001,economics,"""for their analyses of markets with asymmetric information""",USA,39.83,-98.58,United States of America
+745,A. Michael,Spence,1943,0,USA,US,male,2001,economics,"""for their analyses of markets with asymmetric information""",USA,39.83,-98.58,United States of America
+746,Joseph E.,Stiglitz,1943,0,USA,US,male,2001,economics,"""for their analyses of markets with asymmetric information""",USA,39.83,-98.58,United States of America
+747,V. S.,Naipaul,1932,2018,Trinidad and Tobago,TT,male,2001,literature,"""for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories""",TTO,10.67,-61.52,Trinidad and Tobago
+749,Kofi,Annan,1938,2018,Gold Coast (now Ghana),GH,male,2001,peace,"""for their work for a better organized and more peaceful world""",GHA,8.0,-0.5,Ghana
+750,Sydney,Brenner,1927,2019,South Africa,ZA,male,2002,medicine,"""for their discoveries concerning genetic regulation of organ development and programmed cell death'""",ZAF,-29.0,24.0,South Africa
+751,H. Robert,Horvitz,1947,0,USA,US,male,2002,medicine,"""for their discoveries concerning genetic regulation of organ development and programmed cell death'""",USA,39.83,-98.58,United States of America
+752,John E.,Sulston,1942,2018,United Kingdom,GB,male,2002,medicine,"""for their discoveries concerning genetic regulation of organ development and programmed cell death'""",GBR,54.6,-2.0,United Kingdom
+753,Raymond,Davis Jr.,1914,2006,USA,US,male,2002,physics,"""for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos""",USA,39.83,-98.58,United States of America
+754,Masatoshi,Koshiba,1926,2020,Japan,JP,male,2002,physics,"""for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos""",JPN,35.0,136.0,Japan
+755,Riccardo,Giacconi,1931,2018,Italy,IT,male,2002,physics,"""for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources""",ITA,42.5,12.5,Italy
+756,John B.,Fenn,1917,2010,USA,US,male,2002,chemistry,"""for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules""",USA,39.83,-98.58,United States of America
+757,Koichi,Tanaka,1959,0,Japan,JP,male,2002,chemistry,"""for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules""",JPN,35.0,136.0,Japan
+758,Kurt,Wüthrich,1938,0,Switzerland,CH,male,2002,chemistry,"""for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution""",CHE,46.8,8.23,Switzerland
+759,Daniel,Kahneman,1934,2024,British Mandate of Palestine (now Israel),IL,male,2002,economics,"""for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty""",ISR,31.0,35.0,Israel
+760,Vernon L.,Smith,1927,0,USA,US,male,2002,economics,"""for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms""",USA,39.83,-98.58,United States of America
+761,Imre,Kertész,1929,2016,Hungary,HU,male,2002,literature,"""for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history""",HUN,47.0,19.0,Hungary
+762,Jimmy,Carter,1924,0,USA,US,male,2002,peace,"""for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development""",USA,39.83,-98.58,United States of America
+763,J. M.,Coetzee,1940,0,South Africa,ZA,male,2003,literature,"""who in innumerable guises portrays the surprising involvement of the outsider""",ZAF,-29.0,24.0,South Africa
+764,Paul C.,Lauterbur,1929,2007,USA,US,male,2003,medicine,"""for their discoveries concerning magnetic resonance imaging""",USA,39.83,-98.58,United States of America
+765,Sir Peter,Mansfield,1933,2017,United Kingdom,GB,male,2003,medicine,"""for their discoveries concerning magnetic resonance imaging""",GBR,54.6,-2.0,United Kingdom
+766,Alexei,Abrikosov,1928,2017,USSR (now Russia),RU,male,2003,physics,"""for pioneering contributions to the theory of superconductors and superfluids""",RUS,66.42,94.25,Russia
+767,Vitaly L.,Ginzburg,1916,2009,Russia,RU,male,2003,physics,"""for pioneering contributions to the theory of superconductors and superfluids""",RUS,66.42,94.25,Russia
+768,Anthony J.,Leggett,1938,0,United Kingdom,GB,male,2003,physics,"""for pioneering contributions to the theory of superconductors and superfluids""",GBR,54.6,-2.0,United Kingdom
+769,Peter,Agre,1949,0,USA,US,male,2003,chemistry,"""for the discovery of water channels""",USA,39.83,-98.58,United States of America
+770,Roderick,MacKinnon,1956,0,USA,US,male,2003,chemistry,"""for structural and mechanistic studies of ion channels""",USA,39.83,-98.58,United States of America
+771,Robert F.,Engle III,1942,0,USA,US,male,2003,economics,"""for methods of analyzing economic time series with time-varying volatility (ARCH)""",USA,39.83,-98.58,United States of America
+772,Clive W.J.,Granger,1934,2009,United Kingdom,GB,male,2003,economics,"""for methods of analyzing economic time series with common trends (cointegration)""",GBR,54.6,-2.0,United Kingdom
+773,Shirin,Ebadi,1947,0,Iran,IR,female,2003,peace,"""for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children""",IRN,32.0,53.0,Iran
+774,Richard,Axel,1946,0,USA,US,male,2004,medicine,"""for their discoveries of odorant receptors and the organization of the olfactory system""",USA,39.83,-98.58,United States of America
+775,Linda B.,Buck,1947,0,USA,US,female,2004,medicine,"""for their discoveries of odorant receptors and the organization of the olfactory system""",USA,39.83,-98.58,United States of America
+776,David J.,Gross,1941,0,USA,US,male,2004,physics,"""for the discovery of asymptotic freedom in the theory of the strong interaction""",USA,39.83,-98.58,United States of America
+777,H. David,Politzer,1949,0,USA,US,male,2004,physics,"""for the discovery of asymptotic freedom in the theory of the strong interaction""",USA,39.83,-98.58,United States of America
+778,Frank,Wilczek,1951,0,USA,US,male,2004,physics,"""for the discovery of asymptotic freedom in the theory of the strong interaction""",USA,39.83,-98.58,United States of America
+779,Aaron,Ciechanover,1947,0,British Protectorate of Palestine (now Israel),IL,male,2004,chemistry,"""for the discovery of ubiquitin-mediated protein degradation""",ISR,31.0,35.0,Israel
+780,Avram,Hershko,1937,0,Hungary,HU,male,2004,chemistry,"""for the discovery of ubiquitin-mediated protein degradation""",HUN,47.0,19.0,Hungary
+781,Irwin,Rose,1926,2015,USA,US,male,2004,chemistry,"""for the discovery of ubiquitin-mediated protein degradation""",USA,39.83,-98.58,United States of America
+782,Elfriede,Jelinek,1946,0,Austria,AT,female,2004,literature,"""for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power""",AUT,48.0,14.0,Austria
+783,Wangari,Maathai,1940,2011,Kenya,KE,female,2004,peace,"""for her contribution to sustainable development, democracy and peace""",KEN,0.1,38.0,Kenya
+786,Finn E.,Kydland,1943,0,Norway,NO,male,2004,economics,"""for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles""",NOR,65.0,11.0,Norway
+787,Edward C.,Prescott,1940,2022,USA,US,male,2004,economics,"""for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles""",USA,39.83,-98.58,United States of America
+789,Barry J.,Marshall,1951,0,Australia,AU,male,2005,medicine,"""for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease""",AUS,-28.0,137.0,Australia
+790,J. Robin,Warren,1937,2024,Australia,AU,male,2005,medicine,"""for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease""",AUS,-28.0,137.0,Australia
+791,Roy J.,Glauber,1925,2018,USA,US,male,2005,physics,"""for his contribution to the quantum theory of optical coherence""",USA,39.83,-98.58,United States of America
+792,John L.,Hall,1934,0,USA,US,male,2005,physics,"""for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique""",USA,39.83,-98.58,United States of America
+793,Theodor W.,Hänsch,1941,0,Germany,DE,male,2005,physics,"""for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique""",DDR,52.05,12.39,German Democratic Republic
+794,Yves,Chauvin,1930,2015,Belgium,BE,male,2005,chemistry,"""for the development of the metathesis method in organic synthesis""",BEL,50.64,4.67,Belgium
+795,Robert H.,Grubbs,1942,2021,USA,US,male,2005,chemistry,"""for the development of the metathesis method in organic synthesis""",USA,39.83,-98.58,United States of America
+796,Richard R.,Schrock,1945,0,USA,US,male,2005,chemistry,"""for the development of the metathesis method in organic synthesis""",USA,39.83,-98.58,United States of America
+798,Mohamed,ElBaradei,1942,0,Egypt,EG,male,2005,peace,"""for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way""",EGY,27.0,29.0,Egypt
+799,Robert J.,Aumann,1930,0,Germany,DE,male,2005,economics,"""for having enhanced our understanding of conflict and cooperation through game-theory analysis""",DDR,52.05,12.39,German Democratic Republic
+800,Thomas C.,Schelling,1921,2016,USA,US,male,2005,economics,"""for having enhanced our understanding of conflict and cooperation through game-theory analysis""",USA,39.83,-98.58,United States of America
+801,Harold,Pinter,1930,2008,United Kingdom,GB,male,2005,literature,"""who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms""",GBR,54.6,-2.0,United Kingdom
+802,Andrew Z.,Fire,1959,0,USA,US,male,2006,medicine,"""for their discovery of RNA interference - gene silencing by double-stranded RNA""",USA,39.83,-98.58,United States of America
+803,Craig C.,Mello,1960,0,USA,US,male,2006,medicine,"""for their discovery of RNA interference - gene silencing by double-stranded RNA""",USA,39.83,-98.58,United States of America
+804,John C.,Mather,1946,0,USA,US,male,2006,physics,"""for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation""",USA,39.83,-98.58,United States of America
+805,George F.,Smoot,1945,0,USA,US,male,2006,physics,"""for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation""",USA,39.83,-98.58,United States of America
+806,Roger D.,Kornberg,1947,0,USA,US,male,2006,chemistry,"""for his studies of the molecular basis of eukaryotic transcription""",USA,39.83,-98.58,United States of America
+807,Edmund S.,Phelps,1933,0,USA,US,male,2006,economics,"""for his analysis of intertemporal tradeoffs in macroeconomic policy""",USA,39.83,-98.58,United States of America
+808,Orhan,Pamuk,1952,0,Turkey,TR,male,2006,literature,"""who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures""",TUR,39.0,36.0,Turkey
+809,Muhammad,Yunus,1940,0,British India (now Bangladesh),BD,male,2006,peace,"""for their efforts to create economic and social development from below""",BGD,24.02,89.87,Bangladesh
+811,Mario R.,Capecchi,1937,0,Italy,IT,male,2007,medicine,"""for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells""",ITA,42.5,12.5,Italy
+812,Sir Martin J.,Evans,1941,0,United Kingdom,GB,male,2007,medicine,"""for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells""",GBR,54.6,-2.0,United Kingdom
+813,Oliver,Smithies,1925,2017,United Kingdom,GB,male,2007,medicine,"""for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells""",GBR,54.6,-2.0,United Kingdom
+814,Albert,Fert,1938,0,France,FR,male,2007,physics,"""for the discovery of Giant Magnetoresistance""",FRA,47.0,2.0,France
+815,Peter,Grünberg,1939,2018,Czechoslovakia (now Czech Republic),CZ,male,2007,physics,"""for the discovery of Giant Magnetoresistance""",CZE,49.5,16.0,Czech Republic
+816,Gerhard,Ertl,1936,0,Germany,DE,male,2007,chemistry,"""for his studies of chemical processes on solid surfaces""",DDR,52.05,12.39,German Democratic Republic
+817,Doris,Lessing,1919,2013,Persia (now Iran),IR,female,2007,literature,"""that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny""",IRN,32.0,53.0,Iran
+819,Al,Gore,1948,0,USA,US,male,2007,peace,"""for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change""",USA,39.83,-98.58,United States of America
+820,Leonid,Hurwicz,1917,2008,Russia,RU,male,2007,economics,"""for having laid the foundations of mechanism design theory""",RUS,66.42,94.25,Russia
+821,Eric S.,Maskin,1950,0,USA,US,male,2007,economics,"""for having laid the foundations of mechanism design theory""",USA,39.83,-98.58,United States of America
+822,Roger B.,Myerson,1951,0,USA,US,male,2007,economics,"""for having laid the foundations of mechanism design theory""",USA,39.83,-98.58,United States of America
+823,Harald,zur Hausen,1936,2023,Germany,DE,male,2008,medicine,"""for his discovery of human papilloma viruses causing cervical cancer""",DDR,52.05,12.39,German Democratic Republic
+824,Françoise,Barré-Sinoussi,1947,0,France,FR,female,2008,medicine,"""for their discovery of human immunodeficiency virus""",FRA,47.0,2.0,France
+825,Luc,Montagnier,1932,2022,France,FR,male,2008,medicine,"""for their discovery of human immunodeficiency virus""",FRA,47.0,2.0,France
+826,Yoichiro,Nambu,1921,2015,Japan,JP,male,2008,physics,"""for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics""",JPN,35.0,136.0,Japan
+827,Makoto,Kobayashi,1944,0,Japan,JP,male,2008,physics,"""for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature""",JPN,35.0,136.0,Japan
+828,Toshihide,Maskawa,1940,2021,Japan,JP,male,2008,physics,"""for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature""",JPN,35.0,136.0,Japan
+829,Osamu,Shimomura,1928,2018,Japan,JP,male,2008,chemistry,"""for the discovery and development of the green fluorescent protein, GFP""",JPN,35.0,136.0,Japan
+830,Martin,Chalfie,1947,0,USA,US,male,2008,chemistry,"""for the discovery and development of the green fluorescent protein, GFP""",USA,39.83,-98.58,United States of America
+831,Roger Y.,Tsien,1952,2016,USA,US,male,2008,chemistry,"""for the discovery and development of the green fluorescent protein, GFP""",USA,39.83,-98.58,United States of America
+832,Jean-Marie Gustave,Le Clézio,1940,0,France,FR,male,2008,literature,"""author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization""",FRA,47.0,2.0,France
+833,Martti,Ahtisaari,1937,2023,Finland,FI,male,2008,peace,"""for his important efforts, on several continents and over more than three decades, to resolve international conflicts""",FIN,65.0,27.0,Finland
+834,Paul,Krugman,1953,0,USA,US,male,2008,economics,"""for his analysis of trade patterns and location of economic activity""",USA,39.83,-98.58,United States of America
+835,Elizabeth H.,Blackburn,1948,0,Australia,AU,female,2009,medicine,"""for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase""",AUS,-28.0,137.0,Australia
+836,Carol W.,Greider,1961,0,USA,US,female,2009,medicine,"""for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase""",USA,39.83,-98.58,United States of America
+837,Jack W.,Szostak,1952,0,United Kingdom,GB,male,2009,medicine,"""for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase""",GBR,54.6,-2.0,United Kingdom
+838,Charles K.,Kao,1933,2018,China,CN,male,2009,physics,"""for groundbreaking achievements concerning the transmission of light in fibers for optical communication""",CHN,35.84,103.45,People's Republic of China
+839,Willard S.,Boyle,1924,2011,Canada,CA,male,2009,physics,"""for the invention of an imaging semiconductor circuit - the CCD sensor""",CAN,56.0,-109.0,Canada
+840,George E.,Smith,1930,0,USA,US,male,2009,physics,"""for the invention of an imaging semiconductor circuit - the CCD sensor""",USA,39.83,-98.58,United States of America
+841,Venkatraman,Ramakrishnan,1952,0,India,IN,male,2009,chemistry,"""for studies of the structure and function of the ribosome""",IND,22.8,83.0,India
+842,Thomas A.,Steitz,1940,2018,USA,US,male,2009,chemistry,"""for studies of the structure and function of the ribosome""",USA,39.83,-98.58,United States of America
+843,Ada E.,Yonath,1939,0,British Mandate of Palestine (now Israel),IL,female,2009,chemistry,"""for studies of the structure and function of the ribosome""",ISR,31.0,35.0,Israel
+844,Herta,Müller,1953,0,Romania,RO,female,2009,literature,"""who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed""",ROU,46.0,25.0,Romania
+845,Barack,Obama,1961,0,USA,US,male,2009,peace,"""for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples""",USA,39.83,-98.58,United States of America
+846,Elinor,Ostrom,1933,2012,USA,US,female,2009,economics,"""for her analysis of economic governance, especially the commons""",USA,39.83,-98.58,United States of America
+847,Oliver E.,Williamson,1932,0,USA,US,male,2009,economics,"""for his analysis of economic governance, especially the boundaries of the firm""",USA,39.83,-98.58,United States of America
+848,Robert G.,Edwards,1925,2013,United Kingdom,GB,male,2010,medicine,"""for the development of in vitro fertilization""",GBR,54.6,-2.0,United Kingdom
+849,Andre,Geim,1958,0,Russia,RU,male,2010,physics,"""for groundbreaking experiments regarding the two-dimensional material graphene""",RUS,66.42,94.25,Russia
+850,Konstantin,Novoselov,1974,0,Russia,RU,male,2010,physics,"""for groundbreaking experiments regarding the two-dimensional material graphene""",RUS,66.42,94.25,Russia
+851,Richard F.,Heck,1931,2015,USA,US,male,2010,chemistry,"""for palladium-catalyzed cross couplings in organic synthesis""",USA,39.83,-98.58,United States of America
+852,Ei-ichi,Negishi,1935,2021,China,CN,male,2010,chemistry,"""for palladium-catalyzed cross couplings in organic synthesis""",CHN,35.84,103.45,People's Republic of China
+853,Akira,Suzuki,1930,0,Japan,JP,male,2010,chemistry,"""for palladium-catalyzed cross couplings in organic synthesis""",JPN,35.0,136.0,Japan
+854,Mario,Vargas Llosa,1936,0,Peru,PE,male,2010,literature,"""for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat""",PER,-9.4,-76.0,Peru
+855,Xiaobo,Liu,1955,2017,China,CN,male,2010,peace,"""for his long and non-violent struggle for fundamental human rights in China""",CHN,35.84,103.45,People's Republic of China
+856,Peter A.,Diamond,1940,0,USA,US,male,2010,economics,"""for their analysis of markets with search frictions""",USA,39.83,-98.58,United States of America
+857,Dale T.,Mortensen,1939,2014,USA,US,male,2010,economics,"""for their analysis of markets with search frictions""",USA,39.83,-98.58,United States of America
+858,Christopher A.,Pissarides,1948,0,Cyprus,CY,male,2010,economics,"""for their analysis of markets with search frictions""",CYP,35.0,33.0,Cyprus
+861,Bruce A.,Beutler,1957,0,USA,US,male,2011,medicine,"""for their discoveries concerning the activation of innate immunity""",USA,39.83,-98.58,United States of America
+862,Jules A.,Hoffmann,1941,0,Luxembourg,LU,male,2011,medicine,"""for their discoveries concerning the activation of innate immunity""",LUX,49.77,6.13,Luxembourg
+863,Ralph M.,Steinman,1943,2011,Canada,CA,male,2011,medicine,"""for his discovery of the dendritic cell and its role in adaptive immunity""",CAN,56.0,-109.0,Canada
+864,Saul,Perlmutter,1959,0,USA,US,male,2011,physics,"""for the discovery of the accelerating expansion of the Universe through observations of distant supernovae""",USA,39.83,-98.58,United States of America
+865,Brian P.,Schmidt,1967,0,USA,US,male,2011,physics,"""for the discovery of the accelerating expansion of the Universe through observations of distant supernovae""",USA,39.83,-98.58,United States of America
+866,Adam G.,Riess,1969,0,USA,US,male,2011,physics,"""for the discovery of the accelerating expansion of the Universe through observations of distant supernovae""",USA,39.83,-98.58,United States of America
+867,Dan,Shechtman,1941,0,British Mandate of Palestine (now Israel),IL,male,2011,chemistry,"""for the discovery of quasicrystals""",ISR,31.0,35.0,Israel
+868,Tomas,Tranströmer,1931,2015,Sweden,SE,male,2011,literature,"""because, through his condensed, translucent images, he gives us fresh access to reality""",SWE,61.0,15.0,Sweden
+869,Ellen,Johnson Sirleaf,1938,0,Liberia,LR,female,2011,peace,"""for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work""",LBR,6.53,-9.75,Liberia
+870,Leymah,Gbowee,1972,0,Liberia,LR,female,2011,peace,"""for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work""",LBR,6.53,-9.75,Liberia
+871,Tawakkol,Karman,1979,0,Yemen,YE,female,2011,peace,"""for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work""",YEM,15.5,48.0,Yemen
+872,Thomas J.,Sargent,1943,0,USA,US,male,2011,economics,"""for their empirical research on cause and effect in the macroeconomy""",USA,39.83,-98.58,United States of America
+873,Christopher A.,Sims,1942,0,USA,US,male,2011,economics,"""for their empirical research on cause and effect in the macroeconomy""",USA,39.83,-98.58,United States of America
+874,Sir John B.,Gurdon,1933,0,United Kingdom,GB,male,2012,medicine,"""for the discovery that mature cells can be reprogrammed to become pluripotent""",GBR,54.6,-2.0,United Kingdom
+875,Shinya,Yamanaka,1962,0,Japan,JP,male,2012,medicine,"""for the discovery that mature cells can be reprogrammed to become pluripotent""",JPN,35.0,136.0,Japan
+876,Serge,Haroche,1944,0,Morocco,MA,male,2012,physics,"""for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems""",MAR,32.0,-6.0,Morocco
+877,David J.,Wineland,1944,0,USA,US,male,2012,physics,"""for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems""",USA,39.83,-98.58,United States of America
+878,Robert J.,Lefkowitz,1943,0,USA,US,male,2012,chemistry,"""for studies of G-protein-coupled receptors""",USA,39.83,-98.58,United States of America
+879,Brian,Kobilka,1955,0,USA,US,male,2012,chemistry,"""for studies of G-protein-coupled receptors""",USA,39.83,-98.58,United States of America
+880,Mo,Yan,1956,0,China,CN,male,2012,literature,"""who with hallucinatory realism merges folk tales, history and the contemporary""",CHN,35.84,103.45,People's Republic of China
+882,Alvin E.,Roth,1951,0,USA,US,male,2012,economics,"""for the theory of stable allocations and the practice of market design""",USA,39.83,-98.58,United States of America
+883,Lloyd S.,Shapley,1923,2016,USA,US,male,2012,economics,"""for the theory of stable allocations and the practice of market design""",USA,39.83,-98.58,United States of America
+884,James E.,Rothman,1950,0,USA,US,male,2013,medicine,"""for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells""",USA,39.83,-98.58,United States of America
+885,Randy W.,Schekman,1948,0,USA,US,male,2013,medicine,"""for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells""",USA,39.83,-98.58,United States of America
+886,Thomas C.,Südhof,1955,0,Germany,DE,male,2013,medicine,"""for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells""",DDR,52.05,12.39,German Democratic Republic
+887,François,Englert,1932,0,Belgium,BE,male,2013,physics,"""for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider""",BEL,50.64,4.67,Belgium
+888,Peter,Higgs,1929,2024,United Kingdom,GB,male,2013,physics,"""for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider""",GBR,54.6,-2.0,United Kingdom
+889,Martin,Karplus,1930,0,Austria,AT,male,2013,chemistry,"""for the development of multiscale models for complex chemical systems""",AUT,48.0,14.0,Austria
+890,Michael,Levitt,1947,0,South Africa,ZA,male,2013,chemistry,"""for the development of multiscale models for complex chemical systems""",ZAF,-29.0,24.0,South Africa
+891,Arieh,Warshel,1940,0,British Mandate of Palestine (now Israel),IL,male,2013,chemistry,"""for the development of multiscale models for complex chemical systems""",ISR,31.0,35.0,Israel
+892,Alice,Munro,1931,2024,Canada,CA,female,2013,literature,"""master of the contemporary short story""",CAN,56.0,-109.0,Canada
+894,Eugene F.,Fama,1939,0,USA,US,male,2013,economics,"""for their empirical analysis of asset prices""",USA,39.83,-98.58,United States of America
+895,Lars Peter,Hansen,1952,0,USA,US,male,2013,economics,"""for their empirical analysis of asset prices""",USA,39.83,-98.58,United States of America
+896,Robert J.,Shiller,1946,0,USA,US,male,2013,economics,"""for their empirical analysis of asset prices""",USA,39.83,-98.58,United States of America
+903,John,O'Keefe,1939,0,USA,US,male,2014,medicine,"""for their discoveries of cells that constitute a positioning system in the brain""",USA,39.83,-98.58,United States of America
+904,May-Britt,Moser,1963,0,Norway,NO,female,2014,medicine,"""for their discoveries of cells that constitute a positioning system in the brain""",NOR,65.0,11.0,Norway
+905,Edvard I.,Moser,1962,0,Norway,NO,male,2014,medicine,"""for their discoveries of cells that constitute a positioning system in the brain""",NOR,65.0,11.0,Norway
+906,Isamu,Akasaki,1929,2021,Japan,JP,male,2014,physics,"""for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources""",JPN,35.0,136.0,Japan
+907,Hiroshi,Amano,1960,0,Japan,JP,male,2014,physics,"""for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources""",JPN,35.0,136.0,Japan
+908,Shuji,Nakamura,1954,0,Japan,JP,male,2014,physics,"""for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources""",JPN,35.0,136.0,Japan
+909,Eric,Betzig,1960,0,USA,US,male,2014,chemistry,"""for the development of super-resolved fluorescence microscopy""",USA,39.83,-98.58,United States of America
+910,Stefan W.,Hell,1962,0,Romania,RO,male,2014,chemistry,"""for the development of super-resolved fluorescence microscopy""",ROU,46.0,25.0,Romania
+911,William E.,Moerner,1953,0,USA,US,male,2014,chemistry,"""for the development of super-resolved fluorescence microscopy""",USA,39.83,-98.58,United States of America
+912,Patrick,Modiano,1945,0,France,FR,male,2014,literature,"""for the art of memory with which he has evoked the most ungraspable human destinies and
+uncovered the life-world of the occupation""",FRA,47.0,2.0,France
+913,Kailash,Satyarthi,1954,0,India,IN,male,2014,peace,"""for their struggle against the suppression of children and young people and for the right of all children to education""",IND,22.8,83.0,India
+914,Malala,Yousafzai,1997,0,Pakistan,PK,female,2014,peace,"""for their struggle against the suppression of children and young people and for the right of all children to education""",PAK,30.0,71.0,Pakistan
+915,Jean,Tirole,1953,0,France,FR,male,2014,economics,"""for his analysis of market power and regulation""",FRA,47.0,2.0,France
+916,William C.,Campbell,1930,0,Ireland,IE,male,2015,medicine,"""for their discoveries concerning a novel therapy against infections caused by roundworm parasites""",IRL,53.0,-8.0,Republic of Ireland
+917,Satoshi,Ōmura,1935,0,Japan,JP,male,2015,medicine,"""for their discoveries concerning a novel therapy against infections caused by roundworm parasites""",JPN,35.0,136.0,Japan
+918,Youyou,Tu,1930,0,China,CN,female,2015,medicine,"""for her discoveries concerning a novel therapy against Malaria""",CHN,35.84,103.45,People's Republic of China
+919,Takaaki,Kajita,1959,0,Japan,JP,male,2015,physics,"""for the discovery of neutrino oscillations, which shows that neutrinos have mass""",JPN,35.0,136.0,Japan
+920,Arthur B.,McDonald,1943,0,Canada,CA,male,2015,physics,"""for the discovery of neutrino oscillations, which shows that neutrinos have mass""",CAN,56.0,-109.0,Canada
+921,Tomas,Lindahl,1938,0,Sweden,SE,male,2015,chemistry,"""for mechanistic studies of DNA repair""",SWE,61.0,15.0,Sweden
+922,Paul,Modrich,1946,0,USA,US,male,2015,chemistry,"""for mechanistic studies of DNA repair""",USA,39.83,-98.58,United States of America
+923,Aziz,Sancar,1946,0,Turkey,TR,male,2015,chemistry,"""for mechanistic studies of DNA repair""",TUR,39.0,36.0,Turkey
+924,Svetlana,Alexievich,1948,0,Ukraine,UA,female,2015,literature,"""for her polyphonic writings, a monument to suffering and courage in our time""",UKR,49.0,32.0,Ukraine
+926,Angus,Deaton,1945,0,Scotland,GB,male,2015,economics,"""for his analysis of consumption, poverty, and welfare""",GBR,54.6,-2.0,United Kingdom
+927,Yoshinori,Ohsumi,1945,0,Japan,JP,male,2016,medicine,"""for his discoveries of mechanisms for autophagy""",JPN,35.0,136.0,Japan
+928,David J.,Thouless,1934,2019,United Kingdom,GB,male,2016,physics,"""for theoretical discoveries of topological phase transitions and topological phases of matter""",GBR,54.6,-2.0,United Kingdom
+929,F. Duncan M.,Haldane,1951,0,United Kingdom,GB,male,2016,physics,"""for theoretical discoveries of topological phase transitions and topological phases of matter""",GBR,54.6,-2.0,United Kingdom
+930,J. Michael,Kosterlitz,1943,0,United Kingdom,GB,male,2016,physics,"""for theoretical discoveries of topological phase transitions and topological phases of matter""",GBR,54.6,-2.0,United Kingdom
+931,Jean-Pierre,Sauvage,1944,0,France,FR,male,2016,chemistry,"""for the design and synthesis of molecular machines""",FRA,47.0,2.0,France
+932,Sir J. Fraser,Stoddart,1942,0,United Kingdom,GB,male,2016,chemistry,"""for the design and synthesis of molecular machines""",GBR,54.6,-2.0,United Kingdom
+933,Bernard L.,Feringa,1951,0,the Netherlands,NL,male,2016,chemistry,"""for the design and synthesis of molecular machines""",NLD,52.32,5.55,Netherlands
+934,Juan Manuel,Santos,1951,0,Colombia,CO,male,2016,peace,"""for his resolute efforts to bring the country's more than 50-year-long civil war to an end""",COL,4.0,-73.25,Colombia
+935,Oliver,Hart,1948,0,United Kingdom,GB,male,2016,economics,"""for their contributions to contract theory""",GBR,54.6,-2.0,United Kingdom
+936,Bengt,Holmström,1949,0,Finland,FI,male,2016,economics,"""for their contributions to contract theory""",FIN,65.0,27.0,Finland
+937,Bob,Dylan,1941,0,USA,US,male,2016,literature,"""for having created new poetic expressions within the great American song tradition""",USA,39.83,-98.58,United States of America
+938,Jeffrey C.,Hall,1945,0,USA,US,male,2017,medicine,"""for their discoveries of molecular mechanisms controlling the circadian rhythm""",USA,39.83,-98.58,United States of America
+939,Michael,Rosbash,1944,0,USA,US,male,2017,medicine,"""for their discoveries of molecular mechanisms controlling the circadian rhythm""",USA,39.83,-98.58,United States of America
+940,Michael W.,Young,1949,0,USA,US,male,2017,medicine,"""for their discoveries of molecular mechanisms controlling the circadian rhythm""",USA,39.83,-98.58,United States of America
+941,Rainer,Weiss,1932,0,Germany,DE,male,2017,physics,"""for decisive contributions to the LIGO detector and the observation of gravitational waves""",DDR,52.05,12.39,German Democratic Republic
+942,Barry C.,Barish,1936,0,USA,US,male,2017,physics,"""for decisive contributions to the LIGO detector and the observation of gravitational waves""",USA,39.83,-98.58,United States of America
+943,Kip S.,Thorne,1940,0,USA,US,male,2017,physics,"""for decisive contributions to the LIGO detector and the observation of gravitational waves""",USA,39.83,-98.58,United States of America
+944,Jacques,Dubochet,1942,0,Switzerland,CH,male,2017,chemistry,"""for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution""",CHE,46.8,8.23,Switzerland
+945,Joachim,Frank,1940,0,Germany,DE,male,2017,chemistry,"""for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution""",DDR,52.05,12.39,German Democratic Republic
+946,Richard,Henderson,1945,0,Scotland,GB,male,2017,chemistry,"""for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution""",GBR,54.6,-2.0,United Kingdom
+947,Kazuo,Ishiguro,1954,0,Japan,JP,male,2017,literature,"""who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world""",JPN,35.0,136.0,Japan
+949,Richard H.,Thaler,1945,0,USA,US,male,2017,economics,"""for his contributions to behavioural economics""",USA,39.83,-98.58,United States of America
+958,James P.,Allison,1948,0,USA,US,male,2018,medicine,"""for their discovery of cancer therapy by inhibition of negative immune regulation""",USA,39.83,-98.58,United States of America
+959,Tasuku,Honjo,1942,0,Japan,JP,male,2018,medicine,"""for their discovery of cancer therapy by inhibition of negative immune regulation""",JPN,35.0,136.0,Japan
+960,Arthur,Ashkin,1922,2020,USA,US,male,2018,physics,"""for the optical tweezers and their application to biological systems""",USA,39.83,-98.58,United States of America
+961,Gérard,Mourou,1944,0,France,FR,male,2018,physics,"""for their method of generating high-intensity, ultra-short optical pulses""",FRA,47.0,2.0,France
+962,Donna,Strickland,1959,0,Canada,CA,female,2018,physics,"""for their method of generating high-intensity, ultra-short optical pulses""",CAN,56.0,-109.0,Canada
+963,Frances H.,Arnold,1956,0,USA,US,female,2018,chemistry,"""for the directed evolution of enzymes""",USA,39.83,-98.58,United States of America
+964,George P.,Smith,1941,0,USA,US,male,2018,chemistry,"""for the phage display of peptides and antibodies""",USA,39.83,-98.58,United States of America
+965,Sir Gregory P.,Winter,1951,0,United Kingdom,GB,male,2018,chemistry,"""for the phage display of peptides and antibodies""",GBR,54.6,-2.0,United Kingdom
+966,Denis,Mukwege,1955,0,Belgian Congo (now Democratic Republic of the Congo),CD,male,2018,peace,"""for their efforts to end the use of sexual violence as a weapon of war and armed conflict""",COD,-2.88,23.66,Democratic Republic of the Congo
+967,Nadia,Murad,1993,0,Iraq,IQ,female,2018,peace,"""for their efforts to end the use of sexual violence as a weapon of war and armed conflict""",IRQ,33.0,43.0,Iraq
+968,William D.,Nordhaus,1941,0,USA,US,male,2018,economics,"""for integrating climate change into long-run macroeconomic analysis""",USA,39.83,-98.58,United States of America
+969,Paul M.,Romer,1955,0,USA,US,male,2018,economics,"""for integrating technological innovations into long-run macroeconomic analysis""",USA,39.83,-98.58,United States of America
+970,William,Kaelin,1957,0,USA,US,male,2019,medicine,"""for their discoveries of how cells sense and adapt to oxygen availability""",USA,39.83,-98.58,United States of America
+971,Peter,Ratcliffe,1954,0,United Kingdom,GB,male,2019,medicine,"""for their discoveries of how cells sense and adapt to oxygen availability""",GBR,54.6,-2.0,United Kingdom
+972,Gregg,Semenza,1956,0,USA,US,male,2019,medicine,"""for their discoveries of how cells sense and adapt to oxygen availability""",USA,39.83,-98.58,United States of America
+973,James,Peebles,1935,0,Canada,CA,male,2019,physics,"""for theoretical discoveries in physical cosmology""",CAN,56.0,-109.0,Canada
+974,Michel,Mayor,1942,0,Switzerland,CH,male,2019,physics,"""for the discovery of an exoplanet orbiting a solar-type star""",CHE,46.8,8.23,Switzerland
+975,Didier,Queloz,1966,0,Switzerland,CH,male,2019,physics,"""for the discovery of an exoplanet orbiting a solar-type star""",CHE,46.8,8.23,Switzerland
+976,John,Goodenough,1922,2023,Germany,DE,male,2019,chemistry,"""for the development of lithium-ion batteries""",DDR,52.05,12.39,German Democratic Republic
+977,M. Stanley,Whittingham,1941,0,United Kingdom,GB,male,2019,chemistry,"""for the development of lithium-ion batteries""",GBR,54.6,-2.0,United Kingdom
+978,Akira,Yoshino,1948,0,Japan,JP,male,2019,chemistry,"""for the development of lithium-ion batteries""",JPN,35.0,136.0,Japan
+979,Olga,Tokarczuk,1962,0,Poland,PL,female,2018,literature,"""for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life""",POL,52.0,19.0,Poland
+980,Peter,Handke,1942,0,Austria,AT,male,2019,literature,"""for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience""",AUT,48.0,14.0,Austria
+981,Abiy,Ahmed Ali,1976,0,Ethiopia,ET,male,2019,peace,"""for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea""",ETH,9.0,40.0,Ethiopia
+982,Abhijit,Banerjee,1961,0,India,IN,male,2019,economics,"""for their experimental approach to alleviating global poverty""",IND,22.8,83.0,India
+983,Esther,Duflo,1972,0,France,FR,female,2019,economics,"""for their experimental approach to alleviating global poverty""",FRA,47.0,2.0,France
+984,Michael,Kremer,1964,0,USA,US,male,2019,economics,"""for their experimental approach to alleviating global poverty""",USA,39.83,-98.58,United States of America
+985,Harvey,Alter,1935,0,USA,US,male,2020,medicine,"""for the discovery of Hepatitis C virus""",USA,39.83,-98.58,United States of America
+986,Michael,Houghton,1949,0,United Kingdom,GB,male,2020,medicine,"""for the discovery of Hepatitis C virus""",GBR,54.6,-2.0,United Kingdom
+987,Charles,Rice,1952,0,USA,US,male,2020,medicine,"""for the discovery of Hepatitis C virus""",USA,39.83,-98.58,United States of America
+988,Roger,Penrose,1931,0,United Kingdom,GB,male,2020,physics,"""for the discovery that black hole formation is a robust prediction of the general theory of relativity""",GBR,54.6,-2.0,United Kingdom
+989,Reinhard,Genzel,1952,0,Germany,DE,male,2020,physics,"""for the discovery of a supermassive compact object at the centre of our galaxy""",DDR,52.05,12.39,German Democratic Republic
+990,Andrea,Ghez,1965,0,USA,US,female,2020,physics,"""for the discovery of a supermassive compact object at the centre of our galaxy""",USA,39.83,-98.58,United States of America
+991,Emmanuelle,Charpentier,1968,0,France,FR,female,2020,chemistry,"""for the development of a method for genome editing""",FRA,47.0,2.0,France
+992,Jennifer A.,Doudna,1964,0,USA,US,female,2020,chemistry,"""for the development of a method for genome editing""",USA,39.83,-98.58,United States of America
+993,Louise,Glück,1943,2023,USA,US,female,2020,literature,"""for her unmistakable poetic voice that with austere beauty makes individual existence universal""",USA,39.83,-98.58,United States of America
+995,Paul,Milgrom,1948,0,USA,US,male,2020,economics,"""for improvements to auction theory and inventions of new auction formats""",USA,39.83,-98.58,United States of America
+996,Robert,Wilson,1937,0,USA,US,male,2020,economics,"""for improvements to auction theory and inventions of new auction formats""",USA,39.83,-98.58,United States of America
+997,David,Julius,1955,0,USA,US,male,2021,medicine,"""for their discoveries of receptors for temperature and touch""",USA,39.83,-98.58,United States of America
+998,Ardem,Patapoutian,1967,0,Lebanon,LB,male,2021,medicine,"""for their discoveries of receptors for temperature and touch""",LBN,33.83,35.77,Lebanon
+999,Syukuro,Manabe,1931,0,Japan,JP,male,2021,physics,"""for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming""",JPN,35.0,136.0,Japan
+1000,Klaus,Hasselmann,1931,0,Germany,DE,male,2021,physics,"""for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming""",DDR,52.05,12.39,German Democratic Republic
+1001,Giorgio,Parisi,1948,0,Italy,IT,male,2021,physics,"""for the discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales""",ITA,42.5,12.5,Italy
+1002,Benjamin,List,1968,0,Germany,DE,male,2021,chemistry,"""for the development of asymmetric organocatalysis""",DDR,52.05,12.39,German Democratic Republic
+1003,David,MacMillan,1968,0,United Kingdom,GB,male,2021,chemistry,"""for the development of asymmetric organocatalysis""",GBR,54.6,-2.0,United Kingdom
+1004,Abdulrazak,Gurnah,1948,0,Tanzania,TZ,male,2021,literature,"""for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents""",TZA,-6.31,34.85,Tanzania
+1005,Maria,Ressa,1963,0,Philippines,PH,female,2021,peace,"""for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace""",PHL,12.0,123.0,Philippines
+1006,Dmitry,Muratov,1961,0,USSR (now Russia),RU,male,2021,peace,"""for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace""",RUS,66.42,94.25,Russia
+1007,David,Card,1956,0,Canada,CA,male,2021,economics,"""for his empirical contributions to labour economics""",CAN,56.0,-109.0,Canada
+1008,Joshua,Angrist,1960,0,USA,US,male,2021,economics,"""for their methodological contributions to the analysis of causal relationships""",USA,39.83,-98.58,United States of America
+1009,Guido,Imbens,1963,0,the Netherlands,NL,male,2021,economics,"""for their methodological contributions to the analysis of causal relationships""",NLD,52.32,5.55,Netherlands
+1011,Svante,Pääbo,1955,0,Sweden,SE,male,2022,medicine,"""for his discoveries concerning the genomes of extinct hominins and human evolution""",SWE,61.0,15.0,Sweden
+1012,Alain,Aspect,1947,0,France,FR,male,2022,physics,"""for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science""",FRA,47.0,2.0,France
+1013,John ,Clauser,1942,0,USA,US,male,2022,physics,"""for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science""",USA,39.83,-98.58,United States of America
+1014,Anton,Zeilinger,1945,0,Austria,AT,male,2022,physics,"""for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science""",AUT,48.0,14.0,Austria
+1015,Carolyn,Bertozzi,1966,0,USA,US,female,2022,chemistry,"""for the development of click chemistry and bioorthogonal chemistry""",USA,39.83,-98.58,United States of America
+1016,Morten,Meldal,1954,0,Denmark,DK,male,2022,chemistry,"""for the development of click chemistry and bioorthogonal chemistry""",DNK,56.0,10.0,Denmark
+1017,Annie,Ernaux,1940,0,France,FR,female,2022,literature,"""for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory""",FRA,47.0,2.0,France
+1018,Ales,Bialiatski ,1962,0,Russia,RU,male,2022,peace,"""The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy.""",RUS,66.42,94.25,Russia
+1021,Ben,Bernanke,1953,0,USA,US,male,2022,economics,"""for research on banks and financial crises""",USA,39.83,-98.58,United States of America
+1022,Douglas,Diamond,1953,0,USA,US,male,2022,economics,"""for research on banks and financial crises""",USA,39.83,-98.58,United States of America
+1023,Philip,Dybvig,1955,0,USA,US,male,2022,economics,"""for research on banks and financial crises""",USA,39.83,-98.58,United States of America
+1024,Katalin,Karikó,1955,0,Hungary,HU,female,2023,medicine,"""for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19""",HUN,47.0,19.0,Hungary
+1025,Drew,Weissman,1959,0,USA,US,male,2023,medicine,"""for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19""",USA,39.83,-98.58,United States of America
+1026,Pierre,Agostini,1941,0,French protectorate of Tunisia (now Tunisia),TN,male,2023,physics,"""for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter""",TUN,34.0,10.0,Tunisia
+1027,Ferenc,Krausz,1962,0,Hungary,HU,male,2023,physics,"""for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter""",HUN,47.0,19.0,Hungary
+1028,Anne,L’Huillier,1958,0,France,FR,female,2023,physics,"""for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter""",FRA,47.0,2.0,France
+1029,Moungi,Bawendi,1961,0,France,FR,male,2023,chemistry,"""for the discovery and synthesis of quantum dots""",FRA,47.0,2.0,France
+1030,Louis,Brus,1943,0,USA,US,male,2023,chemistry,"""for the discovery and synthesis of quantum dots""",USA,39.83,-98.58,United States of America
+1031,Aleksey,Yekimov,1945,0,USSR (now Russia),RU,male,2023,chemistry,"""for the discovery and synthesis of quantum dots""",RUS,66.42,94.25,Russia
+1032,Jon,Fosse,1959,0,Norway,NO,male,2023,literature,"""for his innovative plays and prose which give voice to the unsayable""",NOR,65.0,11.0,Norway
+1033,Narges,Mohammadi,1972,0,Iran,IR,female,2023,peace,"""for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all""",IRN,32.0,53.0,Iran
+1034,Claudia,Goldin,1946,0,USA,US,female,2023,economics,"""for having advanced our understanding of women’s labour market outcomes""",USA,39.83,-98.58,United States of America
